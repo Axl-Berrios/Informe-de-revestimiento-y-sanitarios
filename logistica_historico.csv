@@ -1,0 +1,1828 @@
+Fecha,Costo total,Peaje,Región,Ciudad,Distancia en KM
+2020-01-01,149696,No,Tarapacá,Alto Hospicio,15
+2020-01-02,83474,No,La Araucanía,Villarrica,85
+2020-01-03,126022,Sí,La Araucanía,Temuco,300
+2020-01-04,76780,Sí,Magallanes,Punta Arenas,400
+2020-01-05,123781,No,La Araucanía,Temuco,300
+2020-01-06,85328,No,Tarapacá,Iquique,120
+2020-01-07,102682,Sí,Antofagasta,Calama,215
+2020-01-08,123439,Sí,Magallanes,Punta Arenas,400
+2020-01-09,89745,No,Biobío,Concepción,190
+2020-01-10,82503,No,Biobío,Concepción,190
+2020-01-11,83358,Sí,Los Lagos,Castro,175
+2020-01-12,121800,No,Biobío,Concepción,190
+2020-01-13,94389,No,Coquimbo,La Serena,120
+2020-01-14,101676,No,Ñuble,Chillán,190
+2020-01-15,53281,Sí,Coquimbo,Coquimbo,10
+2020-01-16,114938,Sí,Antofagasta,Calama,215
+2020-01-17,55159,Sí,Biobío,Concepción,190
+2020-01-18,99043,No,Arica y Parinacota,Putre,150
+2020-01-19,143438,Sí,Aysén,Coyhaique,350
+2020-01-20,114754,Sí,Atacama,Vallenar,140
+2020-01-21,134838,No,Atacama,Vallenar,140
+2020-01-22,121728,Sí,Atacama,Vallenar,140
+2020-01-23,80730,Sí,Tarapacá,Iquique,120
+2020-01-24,109675,No,Ñuble,Chillán,190
+2020-01-25,119574,No,Los Lagos,Castro,175
+2020-01-26,80231,No,Ñuble,San Carlos,45
+2020-01-27,133069,No,Metropolitana,Santiago,120
+2020-01-28,106606,Sí,Los Lagos,Puerto Montt,300
+2020-01-29,93136,No,Biobío,Los Ángeles,220
+2020-01-30,66086,No,Tarapacá,Iquique,120
+2020-01-31,55556,No,Aysén,Puerto Aysén,60
+2020-02-01,129501,Sí,Los Ríos,Valdivia,230
+2020-02-02,99329,Sí,La Araucanía,Villarrica,85
+2020-02-03,61057,Sí,Arica y Parinacota,Putre,150
+2020-02-04,109944,Sí,Atacama,Vallenar,140
+2020-02-05,148976,No,Los Ríos,Panguipulli,120
+2020-02-06,63314,No,Valparaíso,Valparaíso,115
+2020-02-07,50464,No,Aysén,Puerto Aysén,60
+2020-02-08,51999,No,La Araucanía,Villarrica,85
+2020-02-09,102742,No,Magallanes,Punta Arenas,400
+2020-02-10,147508,Sí,Los Lagos,Puerto Montt,300
+2020-02-11,56473,Sí,Tarapacá,Alto Hospicio,15
+2020-02-12,126078,No,Coquimbo,Coquimbo,10
+2020-02-13,76494,Sí,Maule,Talca,250
+2020-02-14,101602,No,Coquimbo,La Serena,120
+2020-02-15,60274,No,Los Ríos,Panguipulli,120
+2020-02-16,67912,Sí,Maule,Talca,250
+2020-02-17,47146,No,Los Lagos,Castro,175
+2020-02-18,95161,Sí,Magallanes,Puerto Natales,250
+2020-02-19,147904,Sí,O’Higgins,San Fernando,140
+2020-02-20,124764,No,Valparaíso,Viña del Mar,10
+2020-02-21,50097,No,Los Lagos,Puerto Montt,300
+2020-02-22,55250,No,Coquimbo,La Serena,120
+2020-02-23,99212,Sí,Tarapacá,Alto Hospicio,15
+2020-02-24,50571,Sí,Tarapacá,Alto Hospicio,15
+2020-02-25,105908,No,Tarapacá,Iquique,120
+2020-02-26,114280,No,Atacama,Copiapó,180
+2020-02-27,100184,No,Antofagasta,Antofagasta,200
+2020-02-28,41493,No,Atacama,Copiapó,180
+2020-02-29,144175,No,Aysén,Puerto Aysén,60
+2020-03-01,143377,Sí,Coquimbo,La Serena,120
+2020-03-02,89015,No,La Araucanía,Villarrica,85
+2020-03-03,115567,No,Aysén,Puerto Aysén,60
+2020-03-04,111290,Sí,Magallanes,Punta Arenas,400
+2020-03-05,113961,Sí,Magallanes,Punta Arenas,400
+2020-03-06,109728,No,Aysén,Puerto Aysén,60
+2020-03-07,58627,No,Biobío,Concepción,190
+2020-03-08,129566,No,Coquimbo,La Serena,120
+2020-03-09,71041,No,O’Higgins,Rancagua,85
+2020-03-10,49827,No,Ñuble,Chillán,190
+2020-03-11,139025,Sí,La Araucanía,Villarrica,85
+2020-03-12,64381,Sí,O’Higgins,San Fernando,140
+2020-03-13,132355,No,Los Lagos,Castro,175
+2020-03-14,101962,Sí,Arica y Parinacota,Arica,50
+2020-03-15,75295,No,Atacama,Vallenar,140
+2020-03-16,111280,No,Valparaíso,Valparaíso,115
+2020-03-17,62423,Sí,Antofagasta,Antofagasta,200
+2020-03-18,80778,No,Los Lagos,Castro,175
+2020-03-19,48339,No,La Araucanía,Temuco,300
+2020-03-20,124823,No,Valparaíso,Valparaíso,115
+2020-03-21,55426,Sí,Maule,Talca,250
+2020-03-22,53434,No,Metropolitana,Puente Alto,25
+2020-03-23,43118,Sí,Tarapacá,Iquique,120
+2020-03-24,82578,Sí,O’Higgins,San Fernando,140
+2020-03-25,83763,No,Tarapacá,Iquique,120
+2020-03-26,88094,No,Biobío,Concepción,190
+2020-03-27,45177,Sí,Aysén,Puerto Aysén,60
+2020-03-28,148164,No,Biobío,Concepción,190
+2020-03-29,139991,No,Maule,Curicó,180
+2020-03-30,135867,No,Coquimbo,Coquimbo,10
+2020-03-31,137107,No,Aysén,Puerto Aysén,60
+2020-04-01,47013,No,Maule,Curicó,180
+2020-04-02,103040,Sí,Maule,Curicó,180
+2020-04-03,56029,Sí,O’Higgins,Rancagua,85
+2020-04-04,98269,Sí,Aysén,Coyhaique,350
+2020-04-05,60464,Sí,Maule,Talca,250
+2020-04-06,141097,Sí,Antofagasta,Calama,215
+2020-04-07,64604,Sí,Metropolitana,Santiago,120
+2020-04-08,100860,Sí,Los Lagos,Puerto Montt,300
+2020-04-09,111653,No,Ñuble,San Carlos,45
+2020-04-10,97837,No,Maule,Curicó,180
+2020-04-11,44667,No,Ñuble,San Carlos,45
+2020-04-12,84473,Sí,Antofagasta,Antofagasta,200
+2020-04-13,106304,Sí,Arica y Parinacota,Arica,50
+2020-04-14,63523,Sí,Coquimbo,La Serena,120
+2020-04-15,143365,No,Biobío,Los Ángeles,220
+2020-04-16,114224,No,Ñuble,San Carlos,45
+2020-04-17,129033,Sí,Arica y Parinacota,Arica,50
+2020-04-18,60574,Sí,Atacama,Vallenar,140
+2020-04-19,67832,Sí,Antofagasta,Antofagasta,200
+2020-04-20,122518,No,Tarapacá,Alto Hospicio,15
+2020-04-21,81979,Sí,Biobío,Los Ángeles,220
+2020-04-22,131247,Sí,Magallanes,Punta Arenas,400
+2020-04-23,87569,Sí,Los Ríos,Panguipulli,120
+2020-04-24,93176,No,Arica y Parinacota,Arica,50
+2020-04-25,69765,Sí,Valparaíso,Valparaíso,115
+2020-04-26,90787,No,Maule,Talca,250
+2020-04-27,62248,Sí,Aysén,Puerto Aysén,60
+2020-04-28,128824,Sí,Atacama,Vallenar,140
+2020-04-29,51278,Sí,Antofagasta,Antofagasta,200
+2020-04-30,107702,No,Ñuble,Chillán,190
+2020-05-01,140645,Sí,O’Higgins,Rancagua,85
+2020-05-02,143813,Sí,Magallanes,Puerto Natales,250
+2020-05-03,91586,No,Aysén,Coyhaique,350
+2020-05-04,55709,Sí,Ñuble,San Carlos,45
+2020-05-05,45853,No,Tarapacá,Alto Hospicio,15
+2020-05-06,113207,No,Atacama,Copiapó,180
+2020-05-07,94544,Sí,Antofagasta,Antofagasta,200
+2020-05-08,124569,No,Maule,Curicó,180
+2020-05-09,70415,Sí,Metropolitana,Santiago,120
+2020-05-10,51124,Sí,Valparaíso,Viña del Mar,10
+2020-05-11,119880,No,Atacama,Vallenar,140
+2020-05-12,69898,No,Los Ríos,Panguipulli,120
+2020-05-13,64449,Sí,Coquimbo,La Serena,120
+2020-05-14,74226,No,Metropolitana,Puente Alto,25
+2020-05-15,133500,Sí,Tarapacá,Alto Hospicio,15
+2020-05-16,149076,Sí,Antofagasta,Antofagasta,200
+2020-05-17,72646,No,Tarapacá,Alto Hospicio,15
+2020-05-18,137832,Sí,Los Ríos,Panguipulli,120
+2020-05-19,117637,Sí,Tarapacá,Iquique,120
+2020-05-20,78440,Sí,Atacama,Copiapó,180
+2020-05-21,138391,No,Magallanes,Punta Arenas,400
+2020-05-22,103748,Sí,La Araucanía,Villarrica,85
+2020-05-23,84735,No,Coquimbo,La Serena,120
+2020-05-24,127350,No,Aysén,Puerto Aysén,60
+2020-05-25,114357,Sí,Atacama,Copiapó,180
+2020-05-26,60756,No,Aysén,Coyhaique,350
+2020-05-27,110750,Sí,Maule,Talca,250
+2020-05-28,50674,Sí,Ñuble,San Carlos,45
+2020-05-29,61401,Sí,Tarapacá,Iquique,120
+2020-05-30,127424,Sí,Coquimbo,La Serena,120
+2020-05-31,95805,No,Tarapacá,Iquique,120
+2020-06-01,95172,Sí,Los Ríos,Panguipulli,120
+2020-06-02,119071,No,O’Higgins,Rancagua,85
+2020-06-03,127906,No,Los Ríos,Panguipulli,120
+2020-06-04,57773,Sí,Biobío,Los Ángeles,220
+2020-06-05,122484,No,Magallanes,Puerto Natales,250
+2020-06-06,148112,Sí,Tarapacá,Iquique,120
+2020-06-07,47918,Sí,Valparaíso,Valparaíso,115
+2020-06-08,116498,Sí,Valparaíso,Valparaíso,115
+2020-06-09,63793,No,La Araucanía,Villarrica,85
+2020-06-10,75781,Sí,Coquimbo,Coquimbo,10
+2020-06-11,133516,Sí,O’Higgins,Rancagua,85
+2020-06-12,106394,Sí,Metropolitana,Puente Alto,25
+2020-06-13,62842,No,La Araucanía,Villarrica,85
+2020-06-14,123955,No,Aysén,Coyhaique,350
+2020-06-15,92013,Sí,Magallanes,Punta Arenas,400
+2020-06-16,132108,No,Aysén,Puerto Aysén,60
+2020-06-17,121212,Sí,Los Lagos,Puerto Montt,300
+2020-06-18,83132,No,Biobío,Concepción,190
+2020-06-19,75831,No,La Araucanía,Temuco,300
+2020-06-20,139560,No,Magallanes,Punta Arenas,400
+2020-06-21,112784,Sí,Los Ríos,Panguipulli,120
+2020-06-22,143365,Sí,Magallanes,Puerto Natales,250
+2020-06-23,43599,Sí,Atacama,Vallenar,140
+2020-06-24,80865,No,Tarapacá,Iquique,120
+2020-06-25,143971,Sí,Antofagasta,Antofagasta,200
+2020-06-26,140370,Sí,Ñuble,San Carlos,45
+2020-06-27,102640,Sí,Biobío,Concepción,190
+2020-06-28,95804,No,O’Higgins,San Fernando,140
+2020-06-29,64102,No,Metropolitana,Santiago,120
+2020-06-30,44257,Sí,O’Higgins,Rancagua,85
+2020-07-01,113292,Sí,O’Higgins,San Fernando,140
+2020-07-02,142730,Sí,Biobío,Los Ángeles,220
+2020-07-03,57635,No,Magallanes,Puerto Natales,250
+2020-07-04,135813,No,Aysén,Puerto Aysén,60
+2020-07-05,85248,No,Metropolitana,Puente Alto,25
+2020-07-06,71756,Sí,Los Ríos,Panguipulli,120
+2020-07-07,97800,No,Ñuble,Chillán,190
+2020-07-08,139470,No,Biobío,Concepción,190
+2020-07-09,69190,Sí,Maule,Talca,250
+2020-07-10,69182,No,Ñuble,Chillán,190
+2020-07-11,112238,No,Tarapacá,Iquique,120
+2020-07-12,60787,Sí,Aysén,Puerto Aysén,60
+2020-07-13,114630,No,Antofagasta,Calama,215
+2020-07-14,90131,No,Aysén,Coyhaique,350
+2020-07-15,67188,No,Arica y Parinacota,Putre,150
+2020-07-16,115477,Sí,Los Lagos,Castro,175
+2020-07-17,117577,No,Maule,Talca,250
+2020-07-18,110373,Sí,Maule,Curicó,180
+2020-07-19,77478,Sí,Tarapacá,Iquique,120
+2020-07-20,107038,No,Arica y Parinacota,Putre,150
+2020-07-21,83822,No,Atacama,Vallenar,140
+2020-07-22,84848,No,Arica y Parinacota,Putre,150
+2020-07-23,86604,Sí,Antofagasta,Antofagasta,200
+2020-07-24,116926,Sí,Aysén,Puerto Aysén,60
+2020-07-25,102553,Sí,La Araucanía,Temuco,300
+2020-07-26,97758,Sí,Valparaíso,Viña del Mar,10
+2020-07-27,72199,Sí,Tarapacá,Iquique,120
+2020-07-28,119035,Sí,Coquimbo,Coquimbo,10
+2020-07-29,126142,Sí,Los Lagos,Puerto Montt,300
+2020-07-30,129425,No,Antofagasta,Calama,215
+2020-07-31,63879,Sí,Maule,Talca,250
+2020-08-01,124376,No,Valparaíso,Viña del Mar,10
+2020-08-02,123063,No,Atacama,Vallenar,140
+2020-08-03,108571,No,Valparaíso,Valparaíso,115
+2020-08-04,54194,No,Maule,Curicó,180
+2020-08-05,102105,Sí,Tarapacá,Iquique,120
+2020-08-06,136975,No,La Araucanía,Temuco,300
+2020-08-07,123313,Sí,Los Lagos,Castro,175
+2020-08-08,144225,Sí,Ñuble,San Carlos,45
+2020-08-09,145731,Sí,O’Higgins,Rancagua,85
+2020-08-10,117384,Sí,Antofagasta,Calama,215
+2020-08-11,84776,No,O’Higgins,San Fernando,140
+2020-08-12,81938,No,Maule,Curicó,180
+2020-08-13,85529,No,Aysén,Puerto Aysén,60
+2020-08-14,90964,Sí,Maule,Talca,250
+2020-08-15,116560,No,Maule,Talca,250
+2020-08-16,83095,Sí,Aysén,Puerto Aysén,60
+2020-08-17,114682,Sí,Maule,Talca,250
+2020-08-18,46706,Sí,La Araucanía,Villarrica,85
+2020-08-19,75966,No,La Araucanía,Villarrica,85
+2020-08-20,56714,No,Atacama,Vallenar,140
+2020-08-21,68601,Sí,Aysén,Coyhaique,350
+2020-08-22,88366,Sí,Los Ríos,Valdivia,230
+2020-08-23,133155,No,Los Ríos,Valdivia,230
+2020-08-24,109785,No,Aysén,Coyhaique,350
+2020-08-25,114513,No,Los Lagos,Puerto Montt,300
+2020-08-26,128887,Sí,Arica y Parinacota,Arica,50
+2020-08-27,54700,No,Atacama,Copiapó,180
+2020-08-28,127105,No,O’Higgins,Rancagua,85
+2020-08-29,121702,No,Arica y Parinacota,Arica,50
+2020-08-30,54515,No,Atacama,Copiapó,180
+2020-08-31,68685,Sí,Maule,Talca,250
+2020-09-01,73081,Sí,Ñuble,San Carlos,45
+2020-09-02,111342,No,O’Higgins,San Fernando,140
+2020-09-03,73729,Sí,Atacama,Vallenar,140
+2020-09-04,53431,No,Los Ríos,Panguipulli,120
+2020-09-05,120951,No,Los Ríos,Valdivia,230
+2020-09-06,72092,No,La Araucanía,Temuco,300
+2020-09-07,79860,Sí,Ñuble,Chillán,190
+2020-09-08,132560,No,Los Ríos,Valdivia,230
+2020-09-09,98315,Sí,Valparaíso,Valparaíso,115
+2020-09-10,126184,No,Biobío,Los Ángeles,220
+2020-09-11,122534,Sí,Antofagasta,Calama,215
+2020-09-12,92425,No,Valparaíso,Viña del Mar,10
+2020-09-13,67866,No,Los Lagos,Puerto Montt,300
+2020-09-14,54052,No,Tarapacá,Iquique,120
+2020-09-15,122834,Sí,La Araucanía,Villarrica,85
+2020-09-16,112098,Sí,Metropolitana,Puente Alto,25
+2020-09-17,52827,No,Ñuble,San Carlos,45
+2020-09-18,149555,Sí,Atacama,Vallenar,140
+2020-09-19,131244,Sí,Coquimbo,Coquimbo,10
+2020-09-20,44534,Sí,Ñuble,Chillán,190
+2020-09-21,91341,No,Magallanes,Punta Arenas,400
+2020-09-22,85014,Sí,Atacama,Copiapó,180
+2020-09-23,98293,No,Magallanes,Punta Arenas,400
+2020-09-24,40380,Sí,Ñuble,Chillán,190
+2020-09-25,84766,No,Atacama,Vallenar,140
+2020-09-26,93817,Sí,Metropolitana,Santiago,120
+2020-09-27,110184,Sí,Aysén,Puerto Aysén,60
+2020-09-28,91756,Sí,La Araucanía,Villarrica,85
+2020-09-29,95609,No,Ñuble,San Carlos,45
+2020-09-30,64636,No,Ñuble,San Carlos,45
+2020-10-01,139715,No,Los Ríos,Panguipulli,120
+2020-10-02,40979,Sí,La Araucanía,Villarrica,85
+2020-10-03,107969,No,Metropolitana,Puente Alto,25
+2020-10-04,42405,No,Coquimbo,Coquimbo,10
+2020-10-05,74921,Sí,Valparaíso,Viña del Mar,10
+2020-10-06,79386,No,Aysén,Coyhaique,350
+2020-10-07,145785,Sí,Aysén,Puerto Aysén,60
+2020-10-08,42212,No,Los Lagos,Castro,175
+2020-10-09,83402,Sí,Biobío,Los Ángeles,220
+2020-10-10,81405,No,Antofagasta,Antofagasta,200
+2020-10-11,125943,Sí,Biobío,Los Ángeles,220
+2020-10-12,120814,No,Antofagasta,Antofagasta,200
+2020-10-13,109259,Sí,Coquimbo,Coquimbo,10
+2020-10-14,77258,No,O’Higgins,Rancagua,85
+2020-10-15,118493,Sí,Los Lagos,Puerto Montt,300
+2020-10-16,51208,Sí,La Araucanía,Villarrica,85
+2020-10-17,91627,No,Los Lagos,Castro,175
+2020-10-18,69193,No,Coquimbo,La Serena,120
+2020-10-19,105137,No,Metropolitana,Santiago,120
+2020-10-20,79214,Sí,Maule,Talca,250
+2020-10-21,78044,Sí,Valparaíso,Viña del Mar,10
+2020-10-22,93753,Sí,Valparaíso,Valparaíso,115
+2020-10-23,138482,No,Atacama,Vallenar,140
+2020-10-24,63190,Sí,Los Lagos,Puerto Montt,300
+2020-10-25,129374,Sí,Magallanes,Puerto Natales,250
+2020-10-26,149040,No,Maule,Curicó,180
+2020-10-27,49638,No,Magallanes,Punta Arenas,400
+2020-10-28,68764,Sí,Maule,Curicó,180
+2020-10-29,81688,No,O’Higgins,Rancagua,85
+2020-10-30,121550,No,Coquimbo,Coquimbo,10
+2020-10-31,103418,No,Atacama,Vallenar,140
+2020-11-01,95313,No,La Araucanía,Villarrica,85
+2020-11-02,144966,Sí,Arica y Parinacota,Arica,50
+2020-11-03,74494,No,Los Lagos,Puerto Montt,300
+2020-11-04,146630,Sí,Ñuble,San Carlos,45
+2020-11-05,106612,Sí,Coquimbo,Coquimbo,10
+2020-11-06,81055,No,Biobío,Los Ángeles,220
+2020-11-07,60216,No,Los Lagos,Puerto Montt,300
+2020-11-08,66424,Sí,Metropolitana,Santiago,120
+2020-11-09,80854,Sí,La Araucanía,Villarrica,85
+2020-11-10,133233,Sí,Ñuble,San Carlos,45
+2020-11-11,73279,No,Coquimbo,Coquimbo,10
+2020-11-12,120195,No,Los Lagos,Puerto Montt,300
+2020-11-13,147190,No,Los Ríos,Valdivia,230
+2020-11-14,72671,Sí,Atacama,Copiapó,180
+2020-11-15,119429,Sí,Antofagasta,Calama,215
+2020-11-16,60703,Sí,Maule,Curicó,180
+2020-11-17,130891,Sí,Biobío,Los Ángeles,220
+2020-11-18,122972,No,La Araucanía,Temuco,300
+2020-11-19,144563,Sí,La Araucanía,Villarrica,85
+2020-11-20,136833,No,Metropolitana,Puente Alto,25
+2020-11-21,98728,Sí,Los Ríos,Panguipulli,120
+2020-11-22,67619,No,Atacama,Vallenar,140
+2020-11-23,108522,Sí,Antofagasta,Antofagasta,200
+2020-11-24,119581,No,La Araucanía,Temuco,300
+2020-11-25,77718,No,Tarapacá,Iquique,120
+2020-11-26,130616,No,Aysén,Coyhaique,350
+2020-11-27,125539,Sí,Tarapacá,Iquique,120
+2020-11-28,148064,No,Aysén,Coyhaique,350
+2020-11-29,65609,Sí,Los Lagos,Puerto Montt,300
+2020-11-30,79713,No,Antofagasta,Calama,215
+2020-12-01,50756,No,Los Ríos,Panguipulli,120
+2020-12-02,92610,Sí,O’Higgins,Rancagua,85
+2020-12-03,149088,Sí,Aysén,Coyhaique,350
+2020-12-04,79972,Sí,Aysén,Puerto Aysén,60
+2020-12-05,106322,No,Metropolitana,Puente Alto,25
+2020-12-06,104986,Sí,Magallanes,Puerto Natales,250
+2020-12-07,114463,Sí,Los Ríos,Panguipulli,120
+2020-12-08,48208,Sí,O’Higgins,Rancagua,85
+2020-12-09,44315,Sí,Los Lagos,Castro,175
+2020-12-10,146329,Sí,Los Lagos,Castro,175
+2020-12-11,73082,No,Tarapacá,Iquique,120
+2020-12-12,123573,No,Atacama,Vallenar,140
+2020-12-13,101180,No,Arica y Parinacota,Arica,50
+2020-12-14,58266,No,Tarapacá,Iquique,120
+2020-12-15,138980,No,Magallanes,Punta Arenas,400
+2020-12-16,93082,No,La Araucanía,Villarrica,85
+2020-12-17,140640,Sí,Atacama,Vallenar,140
+2020-12-18,52639,Sí,Atacama,Vallenar,140
+2020-12-19,78538,No,Aysén,Puerto Aysén,60
+2020-12-20,44452,No,Arica y Parinacota,Arica,50
+2020-12-21,138859,No,Ñuble,San Carlos,45
+2020-12-22,93223,No,Aysén,Coyhaique,350
+2020-12-23,92759,Sí,Antofagasta,Antofagasta,200
+2020-12-24,52558,No,Aysén,Puerto Aysén,60
+2020-12-25,135991,Sí,Arica y Parinacota,Arica,50
+2020-12-26,77120,No,Arica y Parinacota,Arica,50
+2020-12-27,145783,Sí,Aysén,Puerto Aysén,60
+2020-12-28,48253,Sí,Magallanes,Puerto Natales,250
+2020-12-29,94527,No,La Araucanía,Villarrica,85
+2020-12-30,115105,Sí,Arica y Parinacota,Putre,150
+2020-12-31,66874,No,Valparaíso,Valparaíso,115
+2021-01-01,66349,Sí,Metropolitana,Santiago,120
+2021-01-02,63036,Sí,Metropolitana,Santiago,120
+2021-01-03,90029,No,Valparaíso,Valparaíso,115
+2021-01-04,133216,Sí,La Araucanía,Temuco,300
+2021-01-05,104972,Sí,La Araucanía,Villarrica,85
+2021-01-06,112466,Sí,Antofagasta,Antofagasta,200
+2021-01-07,93783,Sí,Biobío,Concepción,190
+2021-01-08,108556,Sí,Coquimbo,Coquimbo,10
+2021-01-09,40368,No,Aysén,Coyhaique,350
+2021-01-10,129679,Sí,Los Ríos,Panguipulli,120
+2021-01-11,88570,Sí,Maule,Talca,250
+2021-01-12,79092,No,Maule,Curicó,180
+2021-01-13,128641,No,O’Higgins,Rancagua,85
+2021-01-14,86121,No,O’Higgins,Rancagua,85
+2021-01-15,108925,No,Los Lagos,Castro,175
+2021-01-16,105549,No,Magallanes,Puerto Natales,250
+2021-01-17,73200,Sí,Aysén,Coyhaique,350
+2021-01-18,47655,No,Maule,Curicó,180
+2021-01-19,54394,Sí,Coquimbo,Coquimbo,10
+2021-01-20,81581,No,Aysén,Coyhaique,350
+2021-01-21,131802,Sí,La Araucanía,Temuco,300
+2021-01-22,117662,Sí,La Araucanía,Villarrica,85
+2021-01-23,149316,Sí,Antofagasta,Calama,215
+2021-01-24,149411,Sí,Coquimbo,Coquimbo,10
+2021-01-25,92343,No,La Araucanía,Temuco,300
+2021-01-26,107302,No,Los Lagos,Castro,175
+2021-01-27,134918,Sí,Biobío,Concepción,190
+2021-01-28,138038,No,Antofagasta,Antofagasta,200
+2021-01-29,82762,No,Maule,Talca,250
+2021-01-30,50354,Sí,Antofagasta,Antofagasta,200
+2021-01-31,105745,Sí,Maule,Curicó,180
+2021-02-01,55345,No,Metropolitana,Santiago,120
+2021-02-02,123044,No,Coquimbo,La Serena,120
+2021-02-03,89955,Sí,Arica y Parinacota,Putre,150
+2021-02-04,60785,Sí,Arica y Parinacota,Arica,50
+2021-02-05,133407,No,Tarapacá,Alto Hospicio,15
+2021-02-06,88533,No,Ñuble,San Carlos,45
+2021-02-07,76402,No,La Araucanía,Villarrica,85
+2021-02-08,144318,Sí,Tarapacá,Iquique,120
+2021-02-09,43285,Sí,Coquimbo,La Serena,120
+2021-02-10,99983,Sí,Ñuble,Chillán,190
+2021-02-11,58193,Sí,Tarapacá,Alto Hospicio,15
+2021-02-12,67601,Sí,Tarapacá,Alto Hospicio,15
+2021-02-13,94882,Sí,Biobío,Los Ángeles,220
+2021-02-14,40719,Sí,Atacama,Vallenar,140
+2021-02-15,87831,Sí,Arica y Parinacota,Putre,150
+2021-02-16,100012,Sí,Antofagasta,Calama,215
+2021-02-17,88986,No,Valparaíso,Valparaíso,115
+2021-02-18,45876,No,Los Ríos,Valdivia,230
+2021-02-19,81734,No,La Araucanía,Villarrica,85
+2021-02-20,114106,Sí,Magallanes,Punta Arenas,400
+2021-02-21,63775,Sí,Biobío,Concepción,190
+2021-02-22,46933,No,Metropolitana,Santiago,120
+2021-02-23,134185,No,Atacama,Copiapó,180
+2021-02-24,86264,Sí,Ñuble,San Carlos,45
+2021-02-25,148802,Sí,Atacama,Copiapó,180
+2021-02-26,123962,Sí,O’Higgins,Rancagua,85
+2021-02-27,82712,No,Valparaíso,Viña del Mar,10
+2021-02-28,125711,No,Aysén,Coyhaique,350
+2021-03-01,82463,Sí,Los Ríos,Panguipulli,120
+2021-03-02,133745,No,Magallanes,Punta Arenas,400
+2021-03-03,54580,Sí,Coquimbo,Coquimbo,10
+2021-03-04,67102,No,Maule,Curicó,180
+2021-03-05,105521,Sí,La Araucanía,Temuco,300
+2021-03-06,124639,Sí,Valparaíso,Viña del Mar,10
+2021-03-07,54349,No,La Araucanía,Temuco,300
+2021-03-08,81999,Sí,Arica y Parinacota,Putre,150
+2021-03-09,51711,Sí,Antofagasta,Antofagasta,200
+2021-03-10,70991,Sí,Coquimbo,La Serena,120
+2021-03-11,103264,Sí,Antofagasta,Calama,215
+2021-03-12,70730,Sí,La Araucanía,Villarrica,85
+2021-03-13,70765,No,Aysén,Coyhaique,350
+2021-03-14,97089,No,Coquimbo,La Serena,120
+2021-03-15,147225,Sí,Biobío,Los Ángeles,220
+2021-03-16,130368,No,O’Higgins,San Fernando,140
+2021-03-17,81279,Sí,Biobío,Los Ángeles,220
+2021-03-18,88784,Sí,Valparaíso,Viña del Mar,10
+2021-03-19,88128,No,Magallanes,Puerto Natales,250
+2021-03-20,60870,Sí,Tarapacá,Alto Hospicio,15
+2021-03-21,133769,Sí,Coquimbo,Coquimbo,10
+2021-03-22,87365,Sí,Biobío,Los Ángeles,220
+2021-03-23,92494,No,Atacama,Copiapó,180
+2021-03-24,127333,Sí,Los Lagos,Castro,175
+2021-03-25,149475,No,Magallanes,Puerto Natales,250
+2021-03-26,121403,No,Biobío,Concepción,190
+2021-03-27,96451,No,Los Lagos,Castro,175
+2021-03-28,67618,Sí,Los Lagos,Puerto Montt,300
+2021-03-29,103835,No,Arica y Parinacota,Arica,50
+2021-03-30,100267,Sí,La Araucanía,Temuco,300
+2021-03-31,62428,No,Los Ríos,Valdivia,230
+2021-04-01,129171,No,Metropolitana,Santiago,120
+2021-04-02,84444,No,Maule,Talca,250
+2021-04-03,125727,No,O’Higgins,San Fernando,140
+2021-04-04,84234,Sí,Biobío,Los Ángeles,220
+2021-04-05,89243,No,Tarapacá,Alto Hospicio,15
+2021-04-06,53119,No,Maule,Curicó,180
+2021-04-07,51643,No,Atacama,Vallenar,140
+2021-04-08,47896,Sí,Antofagasta,Antofagasta,200
+2021-04-09,75201,No,Tarapacá,Iquique,120
+2021-04-10,41584,Sí,Biobío,Los Ángeles,220
+2021-04-11,125518,Sí,Maule,Talca,250
+2021-04-12,124349,Sí,Biobío,Los Ángeles,220
+2021-04-13,52801,Sí,Arica y Parinacota,Arica,50
+2021-04-14,42279,No,Maule,Talca,250
+2021-04-15,117544,Sí,O’Higgins,San Fernando,140
+2021-04-16,73691,No,Los Ríos,Panguipulli,120
+2021-04-17,110057,No,Atacama,Vallenar,140
+2021-04-18,60485,No,Tarapacá,Iquique,120
+2021-04-19,116215,No,O’Higgins,Rancagua,85
+2021-04-20,114256,No,Maule,Talca,250
+2021-04-21,93033,Sí,Coquimbo,Coquimbo,10
+2021-04-22,44647,No,Magallanes,Punta Arenas,400
+2021-04-23,82062,No,Los Lagos,Castro,175
+2021-04-24,97060,No,Biobío,Los Ángeles,220
+2021-04-25,84069,No,Los Ríos,Panguipulli,120
+2021-04-26,135065,Sí,La Araucanía,Temuco,300
+2021-04-27,81823,No,O’Higgins,San Fernando,140
+2021-04-28,82465,Sí,Valparaíso,Valparaíso,115
+2021-04-29,128627,No,Magallanes,Puerto Natales,250
+2021-04-30,44168,No,La Araucanía,Temuco,300
+2021-05-01,114113,No,Metropolitana,Santiago,120
+2021-05-02,65423,Sí,La Araucanía,Villarrica,85
+2021-05-03,148336,Sí,Metropolitana,Santiago,120
+2021-05-04,139698,Sí,O’Higgins,Rancagua,85
+2021-05-05,65050,No,Los Ríos,Panguipulli,120
+2021-05-06,89769,No,Biobío,Concepción,190
+2021-05-07,139876,Sí,Aysén,Coyhaique,350
+2021-05-08,143783,Sí,Atacama,Vallenar,140
+2021-05-09,72804,No,Aysén,Coyhaique,350
+2021-05-10,123252,No,Biobío,Los Ángeles,220
+2021-05-11,56013,Sí,Coquimbo,Coquimbo,10
+2021-05-12,126785,No,Arica y Parinacota,Arica,50
+2021-05-13,80221,Sí,O’Higgins,San Fernando,140
+2021-05-14,102396,Sí,Coquimbo,La Serena,120
+2021-05-15,126433,Sí,Los Ríos,Panguipulli,120
+2021-05-16,45961,No,Valparaíso,Valparaíso,115
+2021-05-17,132995,Sí,Atacama,Copiapó,180
+2021-05-18,61517,Sí,La Araucanía,Villarrica,85
+2021-05-19,100067,No,Los Lagos,Castro,175
+2021-05-20,106361,No,Biobío,Concepción,190
+2021-05-21,52720,Sí,Biobío,Los Ángeles,220
+2021-05-22,45352,Sí,Los Lagos,Puerto Montt,300
+2021-05-23,73584,No,Los Lagos,Castro,175
+2021-05-24,47449,No,Los Lagos,Puerto Montt,300
+2021-05-25,120158,Sí,Biobío,Concepción,190
+2021-05-26,81073,Sí,Antofagasta,Antofagasta,200
+2021-05-27,62065,Sí,Antofagasta,Calama,215
+2021-05-28,114176,No,O’Higgins,Rancagua,85
+2021-05-29,55457,No,Maule,Curicó,180
+2021-05-30,141764,No,Ñuble,San Carlos,45
+2021-05-31,110371,Sí,La Araucanía,Villarrica,85
+2021-06-01,126702,Sí,Aysén,Coyhaique,350
+2021-06-02,80790,No,La Araucanía,Villarrica,85
+2021-06-03,97055,Sí,Coquimbo,Coquimbo,10
+2021-06-04,119863,Sí,Tarapacá,Alto Hospicio,15
+2021-06-05,72236,Sí,Ñuble,San Carlos,45
+2021-06-06,147314,No,Metropolitana,Santiago,120
+2021-06-07,105280,Sí,Los Lagos,Puerto Montt,300
+2021-06-08,107731,Sí,Los Lagos,Castro,175
+2021-06-09,124798,Sí,Los Lagos,Castro,175
+2021-06-10,81463,Sí,Arica y Parinacota,Putre,150
+2021-06-11,51244,Sí,Tarapacá,Iquique,120
+2021-06-12,62599,Sí,Arica y Parinacota,Arica,50
+2021-06-13,84378,Sí,Antofagasta,Antofagasta,200
+2021-06-14,67230,Sí,Los Lagos,Puerto Montt,300
+2021-06-15,102825,Sí,Ñuble,San Carlos,45
+2021-06-16,60243,Sí,Los Lagos,Puerto Montt,300
+2021-06-17,91098,No,Magallanes,Puerto Natales,250
+2021-06-18,92174,Sí,Aysén,Coyhaique,350
+2021-06-19,139716,Sí,Coquimbo,Coquimbo,10
+2021-06-20,46855,Sí,O’Higgins,San Fernando,140
+2021-06-21,140177,Sí,La Araucanía,Villarrica,85
+2021-06-22,74843,Sí,Los Lagos,Castro,175
+2021-06-23,149995,Sí,Magallanes,Punta Arenas,400
+2021-06-24,94508,Sí,Los Lagos,Castro,175
+2021-06-25,101799,No,Biobío,Concepción,190
+2021-06-26,117125,Sí,Ñuble,Chillán,190
+2021-06-27,105077,No,Los Ríos,Valdivia,230
+2021-06-28,138485,No,Magallanes,Punta Arenas,400
+2021-06-29,111101,No,Biobío,Los Ángeles,220
+2021-06-30,116116,No,O’Higgins,San Fernando,140
+2021-07-01,138068,No,Magallanes,Punta Arenas,400
+2021-07-02,115283,Sí,La Araucanía,Temuco,300
+2021-07-03,72434,No,Los Ríos,Valdivia,230
+2021-07-04,96181,Sí,Biobío,Los Ángeles,220
+2021-07-05,122746,Sí,La Araucanía,Temuco,300
+2021-07-06,58100,Sí,Aysén,Puerto Aysén,60
+2021-07-07,86405,Sí,Maule,Talca,250
+2021-07-08,124226,Sí,La Araucanía,Temuco,300
+2021-07-09,128512,Sí,Aysén,Coyhaique,350
+2021-07-10,101483,Sí,Maule,Curicó,180
+2021-07-11,130727,Sí,Coquimbo,Coquimbo,10
+2021-07-12,145232,Sí,Arica y Parinacota,Arica,50
+2021-07-13,107170,No,Valparaíso,Viña del Mar,10
+2021-07-14,63609,Sí,Metropolitana,Santiago,120
+2021-07-15,146972,Sí,La Araucanía,Temuco,300
+2021-07-16,119786,Sí,La Araucanía,Temuco,300
+2021-07-17,62659,No,Biobío,Los Ángeles,220
+2021-07-18,93700,No,Los Lagos,Castro,175
+2021-07-19,115858,No,Tarapacá,Alto Hospicio,15
+2021-07-20,134966,No,Aysén,Coyhaique,350
+2021-07-21,140054,No,Biobío,Los Ángeles,220
+2021-07-22,123374,Sí,Valparaíso,Valparaíso,115
+2021-07-23,125666,Sí,Coquimbo,Coquimbo,10
+2021-07-24,91555,No,La Araucanía,Villarrica,85
+2021-07-25,87299,No,Los Lagos,Puerto Montt,300
+2021-07-26,83386,No,Maule,Talca,250
+2021-07-27,122126,Sí,Metropolitana,Puente Alto,25
+2021-07-28,44134,No,Maule,Curicó,180
+2021-07-29,79046,Sí,O’Higgins,Rancagua,85
+2021-07-30,105150,No,Valparaíso,Viña del Mar,10
+2021-07-31,106204,No,Metropolitana,Puente Alto,25
+2021-08-01,81692,No,Aysén,Puerto Aysén,60
+2021-08-02,92723,Sí,Metropolitana,Puente Alto,25
+2021-08-03,147329,No,Biobío,Concepción,190
+2021-08-04,136849,Sí,Los Ríos,Valdivia,230
+2021-08-05,144397,No,Arica y Parinacota,Arica,50
+2021-08-06,117470,Sí,Magallanes,Puerto Natales,250
+2021-08-07,47113,No,Los Ríos,Valdivia,230
+2021-08-08,83252,Sí,Tarapacá,Alto Hospicio,15
+2021-08-09,83236,No,Ñuble,San Carlos,45
+2021-08-10,112369,No,Aysén,Puerto Aysén,60
+2021-08-11,60077,Sí,Biobío,Los Ángeles,220
+2021-08-12,89359,Sí,Los Lagos,Castro,175
+2021-08-13,122165,Sí,Maule,Talca,250
+2021-08-14,99778,Sí,Maule,Curicó,180
+2021-08-15,106191,Sí,Coquimbo,La Serena,120
+2021-08-16,71268,No,Coquimbo,Coquimbo,10
+2021-08-17,69870,Sí,Valparaíso,Viña del Mar,10
+2021-08-18,60625,No,Arica y Parinacota,Arica,50
+2021-08-19,81086,No,Valparaíso,Valparaíso,115
+2021-08-20,99513,Sí,Los Ríos,Valdivia,230
+2021-08-21,82602,Sí,Coquimbo,La Serena,120
+2021-08-22,98355,No,Metropolitana,Santiago,120
+2021-08-23,86832,No,Magallanes,Punta Arenas,400
+2021-08-24,131279,No,Maule,Talca,250
+2021-08-25,54644,Sí,Antofagasta,Calama,215
+2021-08-26,147688,No,Antofagasta,Calama,215
+2021-08-27,104505,Sí,Antofagasta,Calama,215
+2021-08-28,74700,No,Aysén,Coyhaique,350
+2021-08-29,97835,Sí,Coquimbo,Coquimbo,10
+2021-08-30,127341,Sí,Atacama,Vallenar,140
+2021-08-31,93403,No,Arica y Parinacota,Arica,50
+2021-09-01,137487,Sí,Arica y Parinacota,Arica,50
+2021-09-02,41405,Sí,Maule,Curicó,180
+2021-09-03,137454,No,Los Ríos,Valdivia,230
+2021-09-04,139807,No,Valparaíso,Viña del Mar,10
+2021-09-05,116926,Sí,O’Higgins,San Fernando,140
+2021-09-06,126219,Sí,Los Ríos,Panguipulli,120
+2021-09-07,101892,Sí,Tarapacá,Alto Hospicio,15
+2021-09-08,47240,No,Los Lagos,Puerto Montt,300
+2021-09-09,119249,Sí,Los Ríos,Panguipulli,120
+2021-09-10,93561,Sí,Los Ríos,Valdivia,230
+2021-09-11,66673,No,Coquimbo,La Serena,120
+2021-09-12,95263,No,Metropolitana,Santiago,120
+2021-09-13,42103,Sí,Coquimbo,Coquimbo,10
+2021-09-14,114005,No,Coquimbo,La Serena,120
+2021-09-15,128902,No,La Araucanía,Temuco,300
+2021-09-16,80945,Sí,Los Ríos,Panguipulli,120
+2021-09-17,127979,Sí,Los Ríos,Panguipulli,120
+2021-09-18,73139,Sí,Arica y Parinacota,Arica,50
+2021-09-19,130800,No,O’Higgins,Rancagua,85
+2021-09-20,67997,Sí,Magallanes,Puerto Natales,250
+2021-09-21,137446,No,Metropolitana,Santiago,120
+2021-09-22,112929,No,Antofagasta,Antofagasta,200
+2021-09-23,109303,Sí,Valparaíso,Viña del Mar,10
+2021-09-24,40208,No,Maule,Curicó,180
+2021-09-25,120323,Sí,Tarapacá,Iquique,120
+2021-09-26,80485,No,O’Higgins,San Fernando,140
+2021-09-27,110700,No,Tarapacá,Iquique,120
+2021-09-28,101742,Sí,Coquimbo,La Serena,120
+2021-09-29,95754,Sí,Atacama,Vallenar,140
+2021-09-30,92897,Sí,Magallanes,Puerto Natales,250
+2021-10-01,135686,Sí,O’Higgins,Rancagua,85
+2021-10-02,129238,Sí,Maule,Talca,250
+2021-10-03,64851,No,Arica y Parinacota,Arica,50
+2021-10-04,133077,Sí,Valparaíso,Valparaíso,115
+2021-10-05,148524,Sí,Arica y Parinacota,Putre,150
+2021-10-06,53744,No,Metropolitana,Puente Alto,25
+2021-10-07,66527,No,O’Higgins,San Fernando,140
+2021-10-08,50457,Sí,Biobío,Concepción,190
+2021-10-09,128346,No,Los Ríos,Panguipulli,120
+2021-10-10,117287,No,Tarapacá,Alto Hospicio,15
+2021-10-11,78678,Sí,Maule,Talca,250
+2021-10-12,47909,No,Atacama,Copiapó,180
+2021-10-13,58128,Sí,Metropolitana,Puente Alto,25
+2021-10-14,122200,Sí,Aysén,Coyhaique,350
+2021-10-15,48536,No,Valparaíso,Valparaíso,115
+2021-10-16,84171,Sí,La Araucanía,Villarrica,85
+2021-10-17,104341,No,Maule,Curicó,180
+2021-10-18,73556,Sí,Antofagasta,Antofagasta,200
+2021-10-19,127530,No,Antofagasta,Calama,215
+2021-10-20,119639,No,Antofagasta,Calama,215
+2021-10-21,96258,No,Los Lagos,Puerto Montt,300
+2021-10-22,136063,Sí,Atacama,Copiapó,180
+2021-10-23,59523,No,Tarapacá,Alto Hospicio,15
+2021-10-24,42410,Sí,Aysén,Coyhaique,350
+2021-10-25,68532,Sí,Arica y Parinacota,Arica,50
+2021-10-26,128861,Sí,Biobío,Los Ángeles,220
+2021-10-27,85318,Sí,La Araucanía,Villarrica,85
+2021-10-28,96770,No,Aysén,Coyhaique,350
+2021-10-29,71815,Sí,Los Lagos,Castro,175
+2021-10-30,115325,No,La Araucanía,Villarrica,85
+2021-10-31,67507,No,Valparaíso,Viña del Mar,10
+2021-11-01,94165,No,Arica y Parinacota,Arica,50
+2021-11-02,65894,Sí,Magallanes,Punta Arenas,400
+2021-11-03,51453,Sí,La Araucanía,Temuco,300
+2021-11-04,104336,Sí,La Araucanía,Temuco,300
+2021-11-05,128096,Sí,Metropolitana,Santiago,120
+2021-11-06,59043,Sí,Magallanes,Puerto Natales,250
+2021-11-07,62461,Sí,La Araucanía,Temuco,300
+2021-11-08,130333,Sí,Arica y Parinacota,Arica,50
+2021-11-09,98455,No,Los Ríos,Valdivia,230
+2021-11-10,138544,Sí,Metropolitana,Puente Alto,25
+2021-11-11,131017,No,Metropolitana,Santiago,120
+2021-11-12,134131,Sí,Antofagasta,Calama,215
+2021-11-13,90643,Sí,Los Ríos,Panguipulli,120
+2021-11-14,78036,No,Los Lagos,Castro,175
+2021-11-15,48181,Sí,O’Higgins,San Fernando,140
+2021-11-16,114827,No,Ñuble,San Carlos,45
+2021-11-17,125576,No,Magallanes,Puerto Natales,250
+2021-11-18,108322,Sí,Arica y Parinacota,Putre,150
+2021-11-19,63264,Sí,Atacama,Copiapó,180
+2021-11-20,118432,Sí,Antofagasta,Calama,215
+2021-11-21,137812,No,Maule,Talca,250
+2021-11-22,103125,No,Arica y Parinacota,Putre,150
+2021-11-23,95083,Sí,Metropolitana,Santiago,120
+2021-11-24,145299,No,Ñuble,Chillán,190
+2021-11-25,142814,Sí,Antofagasta,Antofagasta,200
+2021-11-26,71294,No,Tarapacá,Alto Hospicio,15
+2021-11-27,100227,No,Los Lagos,Puerto Montt,300
+2021-11-28,69207,Sí,Valparaíso,Valparaíso,115
+2021-11-29,50690,Sí,Antofagasta,Antofagasta,200
+2021-11-30,123159,Sí,Valparaíso,Viña del Mar,10
+2021-12-01,67757,No,Aysén,Coyhaique,350
+2021-12-02,61564,No,Metropolitana,Puente Alto,25
+2021-12-03,135886,Sí,Biobío,Concepción,190
+2021-12-04,51713,Sí,Coquimbo,La Serena,120
+2021-12-05,119257,No,O’Higgins,Rancagua,85
+2021-12-06,146345,No,Antofagasta,Calama,215
+2021-12-07,120528,Sí,Valparaíso,Viña del Mar,10
+2021-12-08,46208,No,Antofagasta,Calama,215
+2021-12-09,144584,Sí,Aysén,Coyhaique,350
+2021-12-10,109719,No,Ñuble,San Carlos,45
+2021-12-11,101646,No,Los Ríos,Panguipulli,120
+2021-12-12,46996,No,O’Higgins,San Fernando,140
+2021-12-13,85450,No,La Araucanía,Temuco,300
+2021-12-14,134883,No,Valparaíso,Valparaíso,115
+2021-12-15,135171,Sí,Arica y Parinacota,Putre,150
+2021-12-16,90906,Sí,Atacama,Vallenar,140
+2021-12-17,47095,No,Los Lagos,Puerto Montt,300
+2021-12-18,130313,No,Magallanes,Punta Arenas,400
+2021-12-19,142310,No,Metropolitana,Puente Alto,25
+2021-12-20,42379,Sí,Aysén,Puerto Aysén,60
+2021-12-21,79182,No,Arica y Parinacota,Putre,150
+2021-12-22,109198,No,Tarapacá,Alto Hospicio,15
+2021-12-23,95164,Sí,La Araucanía,Villarrica,85
+2021-12-24,97163,No,La Araucanía,Villarrica,85
+2021-12-25,126627,No,Arica y Parinacota,Arica,50
+2021-12-26,132526,Sí,Atacama,Vallenar,140
+2021-12-27,122314,No,Magallanes,Puerto Natales,250
+2021-12-28,47911,No,Aysén,Coyhaique,350
+2021-12-29,79674,No,Biobío,Concepción,190
+2021-12-30,120394,Sí,Coquimbo,Coquimbo,10
+2021-12-31,41483,No,O’Higgins,San Fernando,140
+2022-01-01,63832,Sí,Tarapacá,Iquique,120
+2022-01-02,115910,No,Coquimbo,Coquimbo,10
+2022-01-03,148510,No,Maule,Talca,250
+2022-01-04,82723,No,Biobío,Los Ángeles,220
+2022-01-05,94461,No,Antofagasta,Antofagasta,200
+2022-01-06,51426,No,Metropolitana,Santiago,120
+2022-01-07,142106,No,La Araucanía,Temuco,300
+2022-01-08,107854,Sí,O’Higgins,San Fernando,140
+2022-01-09,67282,Sí,Aysén,Puerto Aysén,60
+2022-01-10,85827,No,Aysén,Coyhaique,350
+2022-01-11,128979,No,Metropolitana,Puente Alto,25
+2022-01-12,110174,No,Magallanes,Puerto Natales,250
+2022-01-13,147393,No,Tarapacá,Alto Hospicio,15
+2022-01-14,136472,No,Metropolitana,Puente Alto,25
+2022-01-15,98227,Sí,Arica y Parinacota,Arica,50
+2022-01-16,113153,Sí,Ñuble,San Carlos,45
+2022-01-17,56358,No,Valparaíso,Viña del Mar,10
+2022-01-18,51281,Sí,La Araucanía,Temuco,300
+2022-01-19,55298,Sí,Los Ríos,Panguipulli,120
+2022-01-20,47179,No,Magallanes,Puerto Natales,250
+2022-01-21,90515,Sí,Los Lagos,Castro,175
+2022-01-22,55958,No,Los Ríos,Panguipulli,120
+2022-01-23,40711,No,Coquimbo,La Serena,120
+2022-01-24,128166,Sí,Aysén,Puerto Aysén,60
+2022-01-25,68241,No,Magallanes,Puerto Natales,250
+2022-01-26,117901,No,Arica y Parinacota,Arica,50
+2022-01-27,110258,Sí,Tarapacá,Iquique,120
+2022-01-28,116786,No,O’Higgins,Rancagua,85
+2022-01-29,53179,No,Coquimbo,La Serena,120
+2022-01-30,50287,Sí,Tarapacá,Alto Hospicio,15
+2022-01-31,121968,Sí,La Araucanía,Temuco,300
+2022-02-01,77047,No,Valparaíso,Valparaíso,115
+2022-02-02,124812,No,Ñuble,Chillán,190
+2022-02-03,94993,No,Arica y Parinacota,Arica,50
+2022-02-04,45952,No,Magallanes,Punta Arenas,400
+2022-02-05,96754,No,Biobío,Concepción,190
+2022-02-06,124282,No,Arica y Parinacota,Putre,150
+2022-02-07,83717,No,Biobío,Concepción,190
+2022-02-08,148820,No,Valparaíso,Valparaíso,115
+2022-02-09,50186,No,Magallanes,Punta Arenas,400
+2022-02-10,149883,No,Aysén,Coyhaique,350
+2022-02-11,46418,Sí,Los Lagos,Puerto Montt,300
+2022-02-12,59045,No,Aysén,Puerto Aysén,60
+2022-02-13,40245,No,O’Higgins,San Fernando,140
+2022-02-14,59433,Sí,Antofagasta,Antofagasta,200
+2022-02-15,55174,Sí,Maule,Curicó,180
+2022-02-16,45362,Sí,Antofagasta,Calama,215
+2022-02-17,106362,Sí,Valparaíso,Valparaíso,115
+2022-02-18,48138,No,Coquimbo,Coquimbo,10
+2022-02-19,114738,Sí,Coquimbo,Coquimbo,10
+2022-02-20,48259,No,La Araucanía,Temuco,300
+2022-02-21,146023,No,Los Lagos,Castro,175
+2022-02-22,147476,No,Maule,Talca,250
+2022-02-23,145720,Sí,Metropolitana,Santiago,120
+2022-02-24,143258,No,Tarapacá,Alto Hospicio,15
+2022-02-25,76240,Sí,Los Ríos,Panguipulli,120
+2022-02-26,138241,No,Biobío,Concepción,190
+2022-02-27,138787,No,Los Lagos,Puerto Montt,300
+2022-02-28,53283,No,Antofagasta,Antofagasta,200
+2022-03-01,57281,No,Ñuble,San Carlos,45
+2022-03-02,144484,No,La Araucanía,Temuco,300
+2022-03-03,111475,Sí,O’Higgins,San Fernando,140
+2022-03-04,77384,Sí,La Araucanía,Temuco,300
+2022-03-05,118915,Sí,Atacama,Vallenar,140
+2022-03-06,99079,No,O’Higgins,San Fernando,140
+2022-03-07,105596,Sí,Valparaíso,Viña del Mar,10
+2022-03-08,88742,No,Arica y Parinacota,Putre,150
+2022-03-09,130752,No,Metropolitana,Santiago,120
+2022-03-10,41307,Sí,Ñuble,San Carlos,45
+2022-03-11,145658,No,Los Ríos,Panguipulli,120
+2022-03-12,63165,No,Valparaíso,Viña del Mar,10
+2022-03-13,59512,No,O’Higgins,San Fernando,140
+2022-03-14,55840,No,Tarapacá,Alto Hospicio,15
+2022-03-15,51833,No,Valparaíso,Valparaíso,115
+2022-03-16,141031,No,Arica y Parinacota,Arica,50
+2022-03-17,131738,No,Coquimbo,Coquimbo,10
+2022-03-18,107154,No,Arica y Parinacota,Putre,150
+2022-03-19,61456,No,Valparaíso,Valparaíso,115
+2022-03-20,86351,No,Metropolitana,Santiago,120
+2022-03-21,64539,No,Valparaíso,Valparaíso,115
+2022-03-22,50645,Sí,Maule,Talca,250
+2022-03-23,102905,No,Los Lagos,Castro,175
+2022-03-24,69602,No,Ñuble,San Carlos,45
+2022-03-25,138239,Sí,Maule,Talca,250
+2022-03-26,57834,Sí,Metropolitana,Puente Alto,25
+2022-03-27,115313,No,Maule,Talca,250
+2022-03-28,46037,No,La Araucanía,Temuco,300
+2022-03-29,53376,Sí,Los Ríos,Valdivia,230
+2022-03-30,51473,No,Maule,Talca,250
+2022-03-31,71844,No,Maule,Curicó,180
+2022-04-01,54589,Sí,Los Lagos,Castro,175
+2022-04-02,136268,Sí,Tarapacá,Alto Hospicio,15
+2022-04-03,67269,Sí,Coquimbo,Coquimbo,10
+2022-04-04,55774,No,Antofagasta,Calama,215
+2022-04-05,133731,No,Magallanes,Puerto Natales,250
+2022-04-06,43964,No,Metropolitana,Santiago,120
+2022-04-07,86147,No,Tarapacá,Alto Hospicio,15
+2022-04-08,118475,Sí,Aysén,Puerto Aysén,60
+2022-04-09,65117,Sí,Ñuble,Chillán,190
+2022-04-10,147926,No,Metropolitana,Santiago,120
+2022-04-11,73358,No,Los Lagos,Puerto Montt,300
+2022-04-12,52277,Sí,Los Ríos,Valdivia,230
+2022-04-13,54188,No,Metropolitana,Santiago,120
+2022-04-14,56215,No,Arica y Parinacota,Arica,50
+2022-04-15,98757,Sí,Tarapacá,Iquique,120
+2022-04-16,43385,Sí,Maule,Curicó,180
+2022-04-17,81633,Sí,Antofagasta,Calama,215
+2022-04-18,89671,No,Atacama,Copiapó,180
+2022-04-19,143264,Sí,Maule,Curicó,180
+2022-04-20,104992,Sí,Arica y Parinacota,Putre,150
+2022-04-21,56289,Sí,Magallanes,Puerto Natales,250
+2022-04-22,136606,Sí,Metropolitana,Puente Alto,25
+2022-04-23,114243,Sí,Biobío,Los Ángeles,220
+2022-04-24,96259,No,Ñuble,Chillán,190
+2022-04-25,90518,Sí,Atacama,Copiapó,180
+2022-04-26,147587,Sí,Biobío,Concepción,190
+2022-04-27,73383,Sí,Coquimbo,La Serena,120
+2022-04-28,57709,No,Los Lagos,Castro,175
+2022-04-29,55497,Sí,Maule,Curicó,180
+2022-04-30,98637,Sí,Arica y Parinacota,Arica,50
+2022-05-01,95387,No,Atacama,Vallenar,140
+2022-05-02,56183,Sí,Ñuble,Chillán,190
+2022-05-03,113054,No,Arica y Parinacota,Arica,50
+2022-05-04,56604,No,Atacama,Copiapó,180
+2022-05-05,111391,Sí,Antofagasta,Calama,215
+2022-05-06,89996,No,O’Higgins,Rancagua,85
+2022-05-07,88652,No,Tarapacá,Iquique,120
+2022-05-08,90798,Sí,Los Lagos,Castro,175
+2022-05-09,98827,Sí,Biobío,Los Ángeles,220
+2022-05-10,69827,No,Coquimbo,La Serena,120
+2022-05-11,85672,Sí,Biobío,Los Ángeles,220
+2022-05-12,68177,No,Los Lagos,Puerto Montt,300
+2022-05-13,124306,Sí,Atacama,Vallenar,140
+2022-05-14,49959,Sí,Atacama,Copiapó,180
+2022-05-15,64059,Sí,Magallanes,Punta Arenas,400
+2022-05-16,77194,No,Arica y Parinacota,Arica,50
+2022-05-17,89005,No,Tarapacá,Iquique,120
+2022-05-18,86144,Sí,Los Lagos,Puerto Montt,300
+2022-05-19,93275,Sí,Biobío,Los Ángeles,220
+2022-05-20,132167,No,Coquimbo,Coquimbo,10
+2022-05-21,72316,No,Aysén,Coyhaique,350
+2022-05-22,128013,Sí,Maule,Talca,250
+2022-05-23,104673,Sí,Los Ríos,Panguipulli,120
+2022-05-24,78933,Sí,Biobío,Concepción,190
+2022-05-25,41373,No,Metropolitana,Santiago,120
+2022-05-26,148840,Sí,La Araucanía,Temuco,300
+2022-05-27,85752,No,O’Higgins,Rancagua,85
+2022-05-28,84447,No,Arica y Parinacota,Putre,150
+2022-05-29,138503,Sí,O’Higgins,Rancagua,85
+2022-05-30,125945,Sí,Magallanes,Punta Arenas,400
+2022-05-31,77911,Sí,Los Ríos,Panguipulli,120
+2022-06-01,62090,Sí,Biobío,Los Ángeles,220
+2022-06-02,143082,Sí,Antofagasta,Antofagasta,200
+2022-06-03,97093,Sí,Metropolitana,Santiago,120
+2022-06-04,133491,Sí,Los Lagos,Puerto Montt,300
+2022-06-05,133109,Sí,Aysén,Coyhaique,350
+2022-06-06,84244,No,Tarapacá,Alto Hospicio,15
+2022-06-07,78524,No,Valparaíso,Viña del Mar,10
+2022-06-08,77143,No,La Araucanía,Temuco,300
+2022-06-09,76103,No,Atacama,Vallenar,140
+2022-06-10,43963,Sí,Tarapacá,Alto Hospicio,15
+2022-06-11,68591,Sí,Los Ríos,Panguipulli,120
+2022-06-12,80172,No,Atacama,Copiapó,180
+2022-06-13,43151,No,O’Higgins,San Fernando,140
+2022-06-14,74340,Sí,La Araucanía,Villarrica,85
+2022-06-15,62333,Sí,Los Ríos,Panguipulli,120
+2022-06-16,48173,Sí,Tarapacá,Iquique,120
+2022-06-17,143289,Sí,Biobío,Concepción,190
+2022-06-18,91769,No,Los Lagos,Puerto Montt,300
+2022-06-19,94504,Sí,La Araucanía,Temuco,300
+2022-06-20,128522,Sí,Coquimbo,La Serena,120
+2022-06-21,65532,Sí,Antofagasta,Calama,215
+2022-06-22,143873,No,Tarapacá,Iquique,120
+2022-06-23,78806,No,Aysén,Coyhaique,350
+2022-06-24,131154,Sí,Magallanes,Punta Arenas,400
+2022-06-25,114568,Sí,Biobío,Concepción,190
+2022-06-26,59734,No,Metropolitana,Santiago,120
+2022-06-27,71865,No,Atacama,Vallenar,140
+2022-06-28,103979,Sí,Metropolitana,Puente Alto,25
+2022-06-29,55342,No,Arica y Parinacota,Arica,50
+2022-06-30,93480,Sí,Los Ríos,Valdivia,230
+2022-07-01,108662,No,Aysén,Puerto Aysén,60
+2022-07-02,130685,Sí,Ñuble,San Carlos,45
+2022-07-03,57136,Sí,Arica y Parinacota,Arica,50
+2022-07-04,50698,No,Arica y Parinacota,Putre,150
+2022-07-05,102230,Sí,Antofagasta,Antofagasta,200
+2022-07-06,134602,No,O’Higgins,Rancagua,85
+2022-07-07,137924,No,Metropolitana,Santiago,120
+2022-07-08,133554,Sí,Ñuble,San Carlos,45
+2022-07-09,70377,Sí,O’Higgins,Rancagua,85
+2022-07-10,112821,Sí,Coquimbo,La Serena,120
+2022-07-11,42807,No,Ñuble,Chillán,190
+2022-07-12,133757,Sí,Ñuble,Chillán,190
+2022-07-13,56115,No,Magallanes,Punta Arenas,400
+2022-07-14,97643,No,Biobío,Concepción,190
+2022-07-15,100151,Sí,Atacama,Copiapó,180
+2022-07-16,126154,Sí,Ñuble,San Carlos,45
+2022-07-17,113372,No,Los Lagos,Castro,175
+2022-07-18,41160,Sí,Aysén,Coyhaique,350
+2022-07-19,67429,No,Aysén,Coyhaique,350
+2022-07-20,129613,Sí,Antofagasta,Calama,215
+2022-07-21,63748,Sí,Antofagasta,Antofagasta,200
+2022-07-22,49086,No,Tarapacá,Alto Hospicio,15
+2022-07-23,75589,No,Coquimbo,Coquimbo,10
+2022-07-24,114028,Sí,Aysén,Coyhaique,350
+2022-07-25,74534,Sí,Antofagasta,Antofagasta,200
+2022-07-26,43225,No,Ñuble,Chillán,190
+2022-07-27,111530,Sí,Magallanes,Punta Arenas,400
+2022-07-28,107622,Sí,Magallanes,Puerto Natales,250
+2022-07-29,49738,No,La Araucanía,Villarrica,85
+2022-07-30,49480,No,Coquimbo,Coquimbo,10
+2022-07-31,126377,Sí,Ñuble,San Carlos,45
+2022-08-01,50431,Sí,Ñuble,Chillán,190
+2022-08-02,98073,No,Biobío,Los Ángeles,220
+2022-08-03,63298,No,Los Lagos,Puerto Montt,300
+2022-08-04,74870,No,Los Ríos,Panguipulli,120
+2022-08-05,149322,No,Maule,Curicó,180
+2022-08-06,44040,No,Magallanes,Punta Arenas,400
+2022-08-07,133638,No,Metropolitana,Santiago,120
+2022-08-08,130626,Sí,Arica y Parinacota,Arica,50
+2022-08-09,45643,No,Ñuble,Chillán,190
+2022-08-10,82183,Sí,Los Lagos,Puerto Montt,300
+2022-08-11,42589,Sí,Antofagasta,Calama,215
+2022-08-12,66117,Sí,Biobío,Los Ángeles,220
+2022-08-13,103109,No,Los Ríos,Panguipulli,120
+2022-08-14,91255,Sí,Atacama,Copiapó,180
+2022-08-15,116900,No,Los Ríos,Panguipulli,120
+2022-08-16,78738,Sí,Ñuble,San Carlos,45
+2022-08-17,142764,Sí,O’Higgins,Rancagua,85
+2022-08-18,139632,No,La Araucanía,Villarrica,85
+2022-08-19,107908,No,Antofagasta,Antofagasta,200
+2022-08-20,52719,Sí,Coquimbo,Coquimbo,10
+2022-08-21,114613,Sí,Ñuble,San Carlos,45
+2022-08-22,51623,No,Metropolitana,Puente Alto,25
+2022-08-23,60712,No,Valparaíso,Viña del Mar,10
+2022-08-24,42283,No,Arica y Parinacota,Putre,150
+2022-08-25,64845,No,La Araucanía,Villarrica,85
+2022-08-26,48459,Sí,Ñuble,San Carlos,45
+2022-08-27,135683,No,Arica y Parinacota,Arica,50
+2022-08-28,42066,No,Tarapacá,Iquique,120
+2022-08-29,52811,Sí,Maule,Curicó,180
+2022-08-30,90197,No,Tarapacá,Alto Hospicio,15
+2022-08-31,92811,No,Valparaíso,Viña del Mar,10
+2022-09-01,136814,No,Ñuble,San Carlos,45
+2022-09-02,55560,Sí,Los Ríos,Valdivia,230
+2022-09-03,45197,No,Antofagasta,Calama,215
+2022-09-04,84127,Sí,Tarapacá,Alto Hospicio,15
+2022-09-05,44258,Sí,Ñuble,Chillán,190
+2022-09-06,147552,No,Maule,Curicó,180
+2022-09-07,137419,No,Los Ríos,Valdivia,230
+2022-09-08,92850,Sí,Atacama,Vallenar,140
+2022-09-09,82730,Sí,Los Lagos,Castro,175
+2022-09-10,135510,No,La Araucanía,Villarrica,85
+2022-09-11,92484,No,O’Higgins,Rancagua,85
+2022-09-12,132970,No,Tarapacá,Alto Hospicio,15
+2022-09-13,73591,No,Los Lagos,Castro,175
+2022-09-14,61789,Sí,Magallanes,Puerto Natales,250
+2022-09-15,106989,Sí,Coquimbo,La Serena,120
+2022-09-16,112326,Sí,Atacama,Vallenar,140
+2022-09-17,60818,Sí,Ñuble,Chillán,190
+2022-09-18,100111,No,Valparaíso,Viña del Mar,10
+2022-09-19,114756,No,Ñuble,San Carlos,45
+2022-09-20,130572,No,Atacama,Vallenar,140
+2022-09-21,109070,No,La Araucanía,Temuco,300
+2022-09-22,72401,No,Tarapacá,Iquique,120
+2022-09-23,138721,No,Magallanes,Puerto Natales,250
+2022-09-24,70108,Sí,Coquimbo,La Serena,120
+2022-09-25,45253,Sí,Ñuble,San Carlos,45
+2022-09-26,96024,Sí,Coquimbo,Coquimbo,10
+2022-09-27,84597,Sí,La Araucanía,Villarrica,85
+2022-09-28,57266,No,Arica y Parinacota,Arica,50
+2022-09-29,99899,No,Metropolitana,Puente Alto,25
+2022-09-30,96086,No,Los Ríos,Valdivia,230
+2022-10-01,41720,Sí,Aysén,Puerto Aysén,60
+2022-10-02,74087,No,Maule,Curicó,180
+2022-10-03,57707,No,La Araucanía,Temuco,300
+2022-10-04,93728,No,Coquimbo,La Serena,120
+2022-10-05,109739,Sí,Coquimbo,Coquimbo,10
+2022-10-06,90120,Sí,Metropolitana,Puente Alto,25
+2022-10-07,103944,No,Arica y Parinacota,Putre,150
+2022-10-08,100237,Sí,Atacama,Vallenar,140
+2022-10-09,77523,Sí,Arica y Parinacota,Putre,150
+2022-10-10,149246,Sí,Tarapacá,Alto Hospicio,15
+2022-10-11,110684,No,Metropolitana,Santiago,120
+2022-10-12,100741,No,Tarapacá,Iquique,120
+2022-10-13,119578,Sí,Valparaíso,Viña del Mar,10
+2022-10-14,110357,No,Los Lagos,Castro,175
+2022-10-15,107087,No,Los Lagos,Castro,175
+2022-10-16,84763,Sí,Atacama,Copiapó,180
+2022-10-17,71324,No,Coquimbo,Coquimbo,10
+2022-10-18,95627,No,Antofagasta,Calama,215
+2022-10-19,78027,No,Ñuble,San Carlos,45
+2022-10-20,75300,Sí,Los Ríos,Panguipulli,120
+2022-10-21,116057,Sí,Metropolitana,Santiago,120
+2022-10-22,59366,Sí,Magallanes,Puerto Natales,250
+2022-10-23,50597,Sí,Tarapacá,Alto Hospicio,15
+2022-10-24,62804,Sí,Valparaíso,Valparaíso,115
+2022-10-25,114238,Sí,Los Ríos,Valdivia,230
+2022-10-26,87350,Sí,Los Lagos,Castro,175
+2022-10-27,95037,Sí,Ñuble,Chillán,190
+2022-10-28,69042,No,Atacama,Vallenar,140
+2022-10-29,117324,No,Los Ríos,Valdivia,230
+2022-10-30,113978,No,Tarapacá,Alto Hospicio,15
+2022-10-31,107059,No,Coquimbo,La Serena,120
+2022-11-01,86546,Sí,Los Lagos,Castro,175
+2022-11-02,148395,Sí,Maule,Talca,250
+2022-11-03,133180,No,La Araucanía,Temuco,300
+2022-11-04,95988,No,Los Lagos,Castro,175
+2022-11-05,51207,No,Coquimbo,La Serena,120
+2022-11-06,118683,Sí,Los Ríos,Valdivia,230
+2022-11-07,85887,Sí,Biobío,Los Ángeles,220
+2022-11-08,119498,Sí,Los Ríos,Valdivia,230
+2022-11-09,82429,No,Antofagasta,Calama,215
+2022-11-10,44701,No,Aysén,Coyhaique,350
+2022-11-11,71008,No,Antofagasta,Calama,215
+2022-11-12,66120,Sí,Atacama,Vallenar,140
+2022-11-13,106903,Sí,Los Lagos,Castro,175
+2022-11-14,78176,Sí,Atacama,Vallenar,140
+2022-11-15,55907,No,Ñuble,San Carlos,45
+2022-11-16,44013,Sí,Los Lagos,Puerto Montt,300
+2022-11-17,80664,Sí,Los Lagos,Puerto Montt,300
+2022-11-18,66231,No,Antofagasta,Antofagasta,200
+2022-11-19,61726,No,Tarapacá,Alto Hospicio,15
+2022-11-20,43320,No,Ñuble,Chillán,190
+2022-11-21,145038,No,La Araucanía,Villarrica,85
+2022-11-22,144132,No,Magallanes,Puerto Natales,250
+2022-11-23,52660,No,Maule,Talca,250
+2022-11-24,129157,No,Metropolitana,Santiago,120
+2022-11-25,62138,No,Arica y Parinacota,Arica,50
+2022-11-26,56419,Sí,Magallanes,Punta Arenas,400
+2022-11-27,132185,No,Arica y Parinacota,Putre,150
+2022-11-28,58868,Sí,Tarapacá,Iquique,120
+2022-11-29,130123,Sí,Los Lagos,Puerto Montt,300
+2022-11-30,137081,No,Atacama,Vallenar,140
+2022-12-01,57840,Sí,Biobío,Los Ángeles,220
+2022-12-02,87777,Sí,Aysén,Coyhaique,350
+2022-12-03,119856,No,Biobío,Concepción,190
+2022-12-04,53448,No,Maule,Curicó,180
+2022-12-05,72398,No,Valparaíso,Viña del Mar,10
+2022-12-06,83925,Sí,Arica y Parinacota,Putre,150
+2022-12-07,124788,No,Antofagasta,Calama,215
+2022-12-08,49780,No,Los Ríos,Panguipulli,120
+2022-12-09,149332,No,La Araucanía,Temuco,300
+2022-12-10,116469,Sí,Aysén,Puerto Aysén,60
+2022-12-11,143915,Sí,Valparaíso,Viña del Mar,10
+2022-12-12,101138,No,Aysén,Coyhaique,350
+2022-12-13,54950,No,Coquimbo,Coquimbo,10
+2022-12-14,142998,Sí,Arica y Parinacota,Putre,150
+2022-12-15,117791,Sí,Los Ríos,Valdivia,230
+2022-12-16,43842,No,Ñuble,Chillán,190
+2022-12-17,45702,Sí,Ñuble,Chillán,190
+2022-12-18,80370,Sí,Aysén,Coyhaique,350
+2022-12-19,135051,Sí,Aysén,Coyhaique,350
+2022-12-20,110009,Sí,Magallanes,Punta Arenas,400
+2022-12-21,149537,No,La Araucanía,Temuco,300
+2022-12-22,73100,No,Magallanes,Puerto Natales,250
+2022-12-23,110836,Sí,Aysén,Puerto Aysén,60
+2022-12-24,70384,Sí,Magallanes,Punta Arenas,400
+2022-12-25,62137,No,Aysén,Coyhaique,350
+2022-12-26,63580,No,Antofagasta,Calama,215
+2022-12-27,43987,Sí,Maule,Curicó,180
+2022-12-28,132469,Sí,Los Lagos,Puerto Montt,300
+2022-12-29,124405,Sí,Los Ríos,Panguipulli,120
+2022-12-30,62590,No,Coquimbo,La Serena,120
+2022-12-31,129650,No,O’Higgins,Rancagua,85
+2023-01-01,110487,Sí,Aysén,Puerto Aysén,60
+2023-01-02,62228,Sí,Biobío,Concepción,190
+2023-01-03,52375,No,Metropolitana,Santiago,120
+2023-01-04,43010,Sí,Coquimbo,Coquimbo,10
+2023-01-05,56504,No,Coquimbo,Coquimbo,10
+2023-01-06,80776,Sí,Antofagasta,Calama,215
+2023-01-07,41006,No,Maule,Talca,250
+2023-01-08,75021,Sí,Magallanes,Punta Arenas,400
+2023-01-09,66839,Sí,O’Higgins,San Fernando,140
+2023-01-10,55953,No,Arica y Parinacota,Arica,50
+2023-01-11,134576,Sí,Aysén,Puerto Aysén,60
+2023-01-12,44110,No,Biobío,Concepción,190
+2023-01-13,60949,No,O’Higgins,Rancagua,85
+2023-01-14,108522,Sí,Ñuble,San Carlos,45
+2023-01-15,70858,No,Magallanes,Puerto Natales,250
+2023-01-16,126926,No,Arica y Parinacota,Putre,150
+2023-01-17,143723,No,Antofagasta,Antofagasta,200
+2023-01-18,88229,No,Maule,Talca,250
+2023-01-19,81534,No,Los Ríos,Valdivia,230
+2023-01-20,40851,No,Aysén,Coyhaique,350
+2023-01-21,68443,Sí,Antofagasta,Antofagasta,200
+2023-01-22,128539,Sí,Metropolitana,Puente Alto,25
+2023-01-23,84956,No,Atacama,Vallenar,140
+2023-01-24,63733,Sí,Arica y Parinacota,Putre,150
+2023-01-25,77312,Sí,Atacama,Copiapó,180
+2023-01-26,101857,No,Antofagasta,Calama,215
+2023-01-27,136892,Sí,Coquimbo,Coquimbo,10
+2023-01-28,61436,No,Los Ríos,Panguipulli,120
+2023-01-29,112094,Sí,Arica y Parinacota,Putre,150
+2023-01-30,48914,Sí,Ñuble,San Carlos,45
+2023-01-31,128188,Sí,Antofagasta,Antofagasta,200
+2023-02-01,56785,No,Biobío,Concepción,190
+2023-02-02,133699,No,Aysén,Coyhaique,350
+2023-02-03,50079,No,O’Higgins,Rancagua,85
+2023-02-04,110692,No,La Araucanía,Temuco,300
+2023-02-05,126538,No,Coquimbo,Coquimbo,10
+2023-02-06,52539,No,Valparaíso,Viña del Mar,10
+2023-02-07,63818,Sí,Maule,Talca,250
+2023-02-08,125262,No,Maule,Talca,250
+2023-02-09,86119,Sí,Coquimbo,Coquimbo,10
+2023-02-10,86800,No,Biobío,Los Ángeles,220
+2023-02-11,147940,No,Tarapacá,Alto Hospicio,15
+2023-02-12,101943,No,Aysén,Coyhaique,350
+2023-02-13,42960,Sí,Maule,Curicó,180
+2023-02-14,118893,No,Tarapacá,Iquique,120
+2023-02-15,73531,Sí,Maule,Talca,250
+2023-02-16,50547,Sí,Tarapacá,Iquique,120
+2023-02-17,75425,Sí,Metropolitana,Santiago,120
+2023-02-18,42529,No,Magallanes,Puerto Natales,250
+2023-02-19,94753,Sí,Atacama,Copiapó,180
+2023-02-20,110707,Sí,La Araucanía,Villarrica,85
+2023-02-21,45916,No,Los Lagos,Castro,175
+2023-02-22,148332,Sí,Arica y Parinacota,Arica,50
+2023-02-23,54674,Sí,Aysén,Coyhaique,350
+2023-02-24,74069,Sí,Aysén,Puerto Aysén,60
+2023-02-25,105929,No,Atacama,Copiapó,180
+2023-02-26,149199,No,Antofagasta,Calama,215
+2023-02-27,113870,No,Aysén,Puerto Aysén,60
+2023-02-28,92365,Sí,Atacama,Copiapó,180
+2023-03-01,68142,Sí,O’Higgins,Rancagua,85
+2023-03-02,144508,Sí,Biobío,Concepción,190
+2023-03-03,63521,No,Atacama,Vallenar,140
+2023-03-04,149619,Sí,O’Higgins,Rancagua,85
+2023-03-05,48859,No,Magallanes,Puerto Natales,250
+2023-03-06,130551,No,La Araucanía,Temuco,300
+2023-03-07,70840,No,Magallanes,Puerto Natales,250
+2023-03-08,51002,Sí,Biobío,Concepción,190
+2023-03-09,64956,No,Aysén,Puerto Aysén,60
+2023-03-10,66382,No,Antofagasta,Antofagasta,200
+2023-03-11,62599,No,Los Ríos,Valdivia,230
+2023-03-12,133482,Sí,Los Lagos,Puerto Montt,300
+2023-03-13,112274,Sí,Los Lagos,Castro,175
+2023-03-14,52136,Sí,Los Lagos,Castro,175
+2023-03-15,104595,Sí,Los Lagos,Puerto Montt,300
+2023-03-16,130817,No,Tarapacá,Alto Hospicio,15
+2023-03-17,129358,Sí,Ñuble,Chillán,190
+2023-03-18,137894,No,Arica y Parinacota,Putre,150
+2023-03-19,145455,No,O’Higgins,Rancagua,85
+2023-03-20,71890,Sí,Los Ríos,Valdivia,230
+2023-03-21,144849,No,Arica y Parinacota,Arica,50
+2023-03-22,51929,No,La Araucanía,Temuco,300
+2023-03-23,106188,Sí,Magallanes,Punta Arenas,400
+2023-03-24,89541,Sí,Valparaíso,Valparaíso,115
+2023-03-25,120748,No,Magallanes,Punta Arenas,400
+2023-03-26,110146,Sí,Antofagasta,Antofagasta,200
+2023-03-27,107026,Sí,Coquimbo,La Serena,120
+2023-03-28,132398,Sí,Antofagasta,Calama,215
+2023-03-29,76742,No,Tarapacá,Iquique,120
+2023-03-30,123493,No,Tarapacá,Iquique,120
+2023-03-31,46938,Sí,Aysén,Puerto Aysén,60
+2023-04-01,130746,No,Coquimbo,La Serena,120
+2023-04-02,136350,Sí,Metropolitana,Santiago,120
+2023-04-03,132138,No,Maule,Curicó,180
+2023-04-04,134898,No,La Araucanía,Villarrica,85
+2023-04-05,78219,No,Metropolitana,Puente Alto,25
+2023-04-06,115658,Sí,Atacama,Copiapó,180
+2023-04-07,112462,Sí,Tarapacá,Iquique,120
+2023-04-08,59584,No,Tarapacá,Iquique,120
+2023-04-09,119591,Sí,Ñuble,Chillán,190
+2023-04-10,74412,Sí,Aysén,Coyhaique,350
+2023-04-11,122565,No,Magallanes,Puerto Natales,250
+2023-04-12,106861,No,Aysén,Puerto Aysén,60
+2023-04-13,64366,Sí,Arica y Parinacota,Arica,50
+2023-04-14,131815,Sí,Valparaíso,Viña del Mar,10
+2023-04-15,77875,Sí,Ñuble,Chillán,190
+2023-04-16,56300,No,Aysén,Puerto Aysén,60
+2023-04-17,75107,No,Arica y Parinacota,Putre,150
+2023-04-18,132234,Sí,Ñuble,San Carlos,45
+2023-04-19,148440,Sí,Antofagasta,Antofagasta,200
+2023-04-20,92703,Sí,Tarapacá,Alto Hospicio,15
+2023-04-21,128763,Sí,Magallanes,Punta Arenas,400
+2023-04-22,49517,No,Biobío,Concepción,190
+2023-04-23,101173,No,La Araucanía,Temuco,300
+2023-04-24,80913,Sí,Tarapacá,Iquique,120
+2023-04-25,50487,Sí,Tarapacá,Alto Hospicio,15
+2023-04-26,124460,No,O’Higgins,Rancagua,85
+2023-04-27,40412,No,Los Ríos,Panguipulli,120
+2023-04-28,137292,Sí,Magallanes,Punta Arenas,400
+2023-04-29,46369,No,Valparaíso,Viña del Mar,10
+2023-04-30,109154,Sí,La Araucanía,Villarrica,85
+2023-05-01,52228,No,Antofagasta,Calama,215
+2023-05-02,41836,Sí,Antofagasta,Calama,215
+2023-05-03,59197,No,Ñuble,Chillán,190
+2023-05-04,96433,Sí,Coquimbo,La Serena,120
+2023-05-05,53844,No,Los Ríos,Valdivia,230
+2023-05-06,141731,No,Coquimbo,Coquimbo,10
+2023-05-07,97472,Sí,O’Higgins,San Fernando,140
+2023-05-08,121535,Sí,Los Lagos,Puerto Montt,300
+2023-05-09,127545,Sí,Tarapacá,Iquique,120
+2023-05-10,135539,Sí,O’Higgins,San Fernando,140
+2023-05-11,131793,Sí,La Araucanía,Villarrica,85
+2023-05-12,115736,No,Los Ríos,Panguipulli,120
+2023-05-13,75267,Sí,Metropolitana,Puente Alto,25
+2023-05-14,123184,Sí,Aysén,Puerto Aysén,60
+2023-05-15,115766,No,Tarapacá,Iquique,120
+2023-05-16,105966,Sí,Valparaíso,Viña del Mar,10
+2023-05-17,69390,Sí,O’Higgins,San Fernando,140
+2023-05-18,104414,No,Aysén,Puerto Aysén,60
+2023-05-19,66853,Sí,Los Ríos,Valdivia,230
+2023-05-20,66320,Sí,Metropolitana,Puente Alto,25
+2023-05-21,135529,No,Ñuble,Chillán,190
+2023-05-22,65715,Sí,La Araucanía,Villarrica,85
+2023-05-23,136689,Sí,Valparaíso,Viña del Mar,10
+2023-05-24,77057,No,La Araucanía,Villarrica,85
+2023-05-25,124455,No,Los Ríos,Valdivia,230
+2023-05-26,61013,No,Atacama,Copiapó,180
+2023-05-27,72389,No,Tarapacá,Alto Hospicio,15
+2023-05-28,49425,No,O’Higgins,Rancagua,85
+2023-05-29,103838,No,Los Ríos,Panguipulli,120
+2023-05-30,99928,Sí,Arica y Parinacota,Putre,150
+2023-05-31,92363,Sí,Antofagasta,Calama,215
+2023-06-01,49892,Sí,Tarapacá,Iquique,120
+2023-06-02,95907,Sí,O’Higgins,San Fernando,140
+2023-06-03,121199,No,Maule,Curicó,180
+2023-06-04,108589,Sí,Magallanes,Punta Arenas,400
+2023-06-05,100338,Sí,Ñuble,San Carlos,45
+2023-06-06,65442,Sí,Maule,Talca,250
+2023-06-07,107640,No,Aysén,Coyhaique,350
+2023-06-08,43708,No,La Araucanía,Villarrica,85
+2023-06-09,100752,No,Biobío,Concepción,190
+2023-06-10,58334,Sí,Coquimbo,La Serena,120
+2023-06-11,76458,Sí,Magallanes,Punta Arenas,400
+2023-06-12,120087,Sí,Tarapacá,Iquique,120
+2023-06-13,143822,No,Atacama,Copiapó,180
+2023-06-14,100147,No,Arica y Parinacota,Arica,50
+2023-06-15,107591,No,Coquimbo,Coquimbo,10
+2023-06-16,101272,Sí,Arica y Parinacota,Putre,150
+2023-06-17,98184,No,Arica y Parinacota,Putre,150
+2023-06-18,110312,No,O’Higgins,Rancagua,85
+2023-06-19,142487,Sí,O’Higgins,Rancagua,85
+2023-06-20,100813,Sí,Biobío,Concepción,190
+2023-06-21,137638,No,Atacama,Vallenar,140
+2023-06-22,92471,No,Coquimbo,La Serena,120
+2023-06-23,147836,No,Los Lagos,Castro,175
+2023-06-24,70650,No,Aysén,Coyhaique,350
+2023-06-25,96560,No,La Araucanía,Villarrica,85
+2023-06-26,97023,No,Arica y Parinacota,Arica,50
+2023-06-27,68699,Sí,O’Higgins,San Fernando,140
+2023-06-28,89441,No,Ñuble,San Carlos,45
+2023-06-29,95906,No,Magallanes,Puerto Natales,250
+2023-06-30,66132,Sí,Valparaíso,Valparaíso,115
+2023-07-01,102789,Sí,Biobío,Concepción,190
+2023-07-02,147770,No,Valparaíso,Viña del Mar,10
+2023-07-03,73900,No,Tarapacá,Iquique,120
+2023-07-04,133840,No,Antofagasta,Calama,215
+2023-07-05,50211,Sí,Maule,Talca,250
+2023-07-06,49408,Sí,Aysén,Puerto Aysén,60
+2023-07-07,67785,No,Maule,Curicó,180
+2023-07-08,86502,No,Los Ríos,Panguipulli,120
+2023-07-09,51541,No,Biobío,Los Ángeles,220
+2023-07-10,137817,Sí,Ñuble,Chillán,190
+2023-07-11,127929,Sí,O’Higgins,San Fernando,140
+2023-07-12,106245,No,Valparaíso,Valparaíso,115
+2023-07-13,53946,Sí,Antofagasta,Calama,215
+2023-07-14,77758,Sí,Ñuble,Chillán,190
+2023-07-15,57859,Sí,O’Higgins,San Fernando,140
+2023-07-16,71369,No,Aysén,Coyhaique,350
+2023-07-17,73968,Sí,La Araucanía,Temuco,300
+2023-07-18,128963,Sí,Tarapacá,Alto Hospicio,15
+2023-07-19,112574,Sí,Biobío,Concepción,190
+2023-07-20,106744,Sí,Los Ríos,Panguipulli,120
+2023-07-21,144022,Sí,Ñuble,San Carlos,45
+2023-07-22,59152,Sí,Atacama,Vallenar,140
+2023-07-23,71284,Sí,Maule,Curicó,180
+2023-07-24,78602,Sí,Valparaíso,Valparaíso,115
+2023-07-25,122510,Sí,Arica y Parinacota,Arica,50
+2023-07-26,60447,No,Ñuble,San Carlos,45
+2023-07-27,80838,Sí,Biobío,Los Ángeles,220
+2023-07-28,58158,Sí,Tarapacá,Iquique,120
+2023-07-29,63895,No,Los Ríos,Panguipulli,120
+2023-07-30,65051,No,Tarapacá,Alto Hospicio,15
+2023-07-31,47134,No,Antofagasta,Antofagasta,200
+2023-08-01,84076,Sí,Los Lagos,Puerto Montt,300
+2023-08-02,143827,No,Ñuble,San Carlos,45
+2023-08-03,110756,Sí,Valparaíso,Valparaíso,115
+2023-08-04,135800,Sí,Valparaíso,Valparaíso,115
+2023-08-05,90431,No,Metropolitana,Santiago,120
+2023-08-06,73149,Sí,Metropolitana,Puente Alto,25
+2023-08-07,61762,No,Ñuble,San Carlos,45
+2023-08-08,112336,No,Ñuble,Chillán,190
+2023-08-09,129958,Sí,Tarapacá,Alto Hospicio,15
+2023-08-10,100370,No,Maule,Curicó,180
+2023-08-11,131245,Sí,Aysén,Coyhaique,350
+2023-08-12,103559,No,Metropolitana,Santiago,120
+2023-08-13,127063,Sí,Aysén,Coyhaique,350
+2023-08-14,75066,No,Biobío,Los Ángeles,220
+2023-08-15,111995,Sí,Ñuble,San Carlos,45
+2023-08-16,48158,Sí,Maule,Curicó,180
+2023-08-17,44624,Sí,Metropolitana,Puente Alto,25
+2023-08-18,41276,No,Aysén,Puerto Aysén,60
+2023-08-19,145204,Sí,Aysén,Coyhaique,350
+2023-08-20,143939,Sí,Aysén,Coyhaique,350
+2023-08-21,57620,No,Valparaíso,Valparaíso,115
+2023-08-22,139384,Sí,Maule,Curicó,180
+2023-08-23,53212,No,Aysén,Coyhaique,350
+2023-08-24,94846,Sí,Metropolitana,Puente Alto,25
+2023-08-25,80088,Sí,Maule,Curicó,180
+2023-08-26,140286,Sí,Magallanes,Puerto Natales,250
+2023-08-27,119620,Sí,Arica y Parinacota,Putre,150
+2023-08-28,78326,Sí,Antofagasta,Antofagasta,200
+2023-08-29,109760,No,Biobío,Concepción,190
+2023-08-30,121981,No,Biobío,Los Ángeles,220
+2023-08-31,82782,Sí,Ñuble,Chillán,190
+2023-09-01,64086,Sí,O’Higgins,Rancagua,85
+2023-09-02,71911,Sí,O’Higgins,San Fernando,140
+2023-09-03,132257,Sí,Maule,Curicó,180
+2023-09-04,54615,No,Biobío,Concepción,190
+2023-09-05,133960,Sí,Valparaíso,Viña del Mar,10
+2023-09-06,47800,No,O’Higgins,Rancagua,85
+2023-09-07,44473,No,Aysén,Puerto Aysén,60
+2023-09-08,61138,Sí,Antofagasta,Calama,215
+2023-09-09,77889,Sí,Tarapacá,Iquique,120
+2023-09-10,55871,Sí,Coquimbo,Coquimbo,10
+2023-09-11,68059,No,Ñuble,San Carlos,45
+2023-09-12,66458,Sí,O’Higgins,San Fernando,140
+2023-09-13,128899,No,Atacama,Copiapó,180
+2023-09-14,144745,Sí,Ñuble,Chillán,190
+2023-09-15,40968,Sí,Aysén,Puerto Aysén,60
+2023-09-16,56384,No,Antofagasta,Antofagasta,200
+2023-09-17,52644,Sí,Valparaíso,Viña del Mar,10
+2023-09-18,99286,No,Atacama,Copiapó,180
+2023-09-19,96661,Sí,La Araucanía,Temuco,300
+2023-09-20,40083,No,Aysén,Puerto Aysén,60
+2023-09-21,102223,No,Magallanes,Puerto Natales,250
+2023-09-22,143228,Sí,Los Ríos,Panguipulli,120
+2023-09-23,43582,Sí,Metropolitana,Santiago,120
+2023-09-24,103914,No,Tarapacá,Alto Hospicio,15
+2023-09-25,87589,Sí,Tarapacá,Alto Hospicio,15
+2023-09-26,120539,Sí,Los Ríos,Valdivia,230
+2023-09-27,60449,No,Los Ríos,Panguipulli,120
+2023-09-28,50401,No,Atacama,Copiapó,180
+2023-09-29,40740,No,Arica y Parinacota,Putre,150
+2023-09-30,48970,Sí,Biobío,Concepción,190
+2023-10-01,124800,Sí,Metropolitana,Santiago,120
+2023-10-02,114558,Sí,Antofagasta,Antofagasta,200
+2023-10-03,127434,Sí,Coquimbo,La Serena,120
+2023-10-04,59008,Sí,Antofagasta,Antofagasta,200
+2023-10-05,60544,Sí,Atacama,Copiapó,180
+2023-10-06,46762,Sí,Antofagasta,Antofagasta,200
+2023-10-07,70441,No,Ñuble,Chillán,190
+2023-10-08,88455,No,Coquimbo,La Serena,120
+2023-10-09,121016,No,Tarapacá,Iquique,120
+2023-10-10,56367,Sí,Arica y Parinacota,Arica,50
+2023-10-11,42499,Sí,Aysén,Puerto Aysén,60
+2023-10-12,69457,No,Metropolitana,Puente Alto,25
+2023-10-13,50884,No,Valparaíso,Viña del Mar,10
+2023-10-14,123003,No,Arica y Parinacota,Arica,50
+2023-10-15,89513,No,O’Higgins,Rancagua,85
+2023-10-16,102927,No,O’Higgins,Rancagua,85
+2023-10-17,83706,No,Metropolitana,Santiago,120
+2023-10-18,93035,Sí,Maule,Curicó,180
+2023-10-19,79086,No,O’Higgins,San Fernando,140
+2023-10-20,79074,Sí,La Araucanía,Villarrica,85
+2023-10-21,85915,No,Coquimbo,La Serena,120
+2023-10-22,66530,No,Coquimbo,La Serena,120
+2023-10-23,51205,No,Los Lagos,Puerto Montt,300
+2023-10-24,93137,No,Los Lagos,Puerto Montt,300
+2023-10-25,98336,Sí,Coquimbo,Coquimbo,10
+2023-10-26,92660,Sí,Maule,Talca,250
+2023-10-27,41413,No,Biobío,Concepción,190
+2023-10-28,51244,No,La Araucanía,Villarrica,85
+2023-10-29,70765,Sí,Maule,Talca,250
+2023-10-30,130911,No,Tarapacá,Iquique,120
+2023-10-31,88049,Sí,O’Higgins,San Fernando,140
+2023-11-01,69742,No,Magallanes,Puerto Natales,250
+2023-11-02,121086,Sí,Biobío,Los Ángeles,220
+2023-11-03,71444,Sí,Coquimbo,La Serena,120
+2023-11-04,49855,No,La Araucanía,Temuco,300
+2023-11-05,84213,No,Arica y Parinacota,Arica,50
+2023-11-06,93074,Sí,O’Higgins,San Fernando,140
+2023-11-07,61089,Sí,Los Lagos,Puerto Montt,300
+2023-11-08,140635,Sí,Arica y Parinacota,Arica,50
+2023-11-09,90516,No,O’Higgins,San Fernando,140
+2023-11-10,135586,Sí,Atacama,Vallenar,140
+2023-11-11,145827,No,Los Ríos,Panguipulli,120
+2023-11-12,61245,No,Antofagasta,Calama,215
+2023-11-13,149872,No,Aysén,Puerto Aysén,60
+2023-11-14,114417,No,Antofagasta,Antofagasta,200
+2023-11-15,136145,Sí,Antofagasta,Antofagasta,200
+2023-11-16,111614,Sí,Metropolitana,Puente Alto,25
+2023-11-17,97350,No,Tarapacá,Iquique,120
+2023-11-18,129334,Sí,Coquimbo,Coquimbo,10
+2023-11-19,58490,Sí,Arica y Parinacota,Putre,150
+2023-11-20,47992,Sí,La Araucanía,Villarrica,85
+2023-11-21,106393,No,Los Lagos,Puerto Montt,300
+2023-11-22,124943,Sí,Aysén,Puerto Aysén,60
+2023-11-23,72844,Sí,O’Higgins,San Fernando,140
+2023-11-24,51618,Sí,Arica y Parinacota,Arica,50
+2023-11-25,57507,No,Valparaíso,Viña del Mar,10
+2023-11-26,92675,Sí,Los Lagos,Puerto Montt,300
+2023-11-27,74047,No,O’Higgins,San Fernando,140
+2023-11-28,59213,Sí,La Araucanía,Villarrica,85
+2023-11-29,96724,No,O’Higgins,Rancagua,85
+2023-11-30,51622,Sí,Metropolitana,Santiago,120
+2023-12-01,120999,No,Tarapacá,Alto Hospicio,15
+2023-12-02,117096,No,Ñuble,San Carlos,45
+2023-12-03,67012,No,Coquimbo,La Serena,120
+2023-12-04,59710,No,Ñuble,Chillán,190
+2023-12-05,144620,Sí,La Araucanía,Temuco,300
+2023-12-06,74292,No,Magallanes,Punta Arenas,400
+2023-12-07,74173,Sí,Magallanes,Puerto Natales,250
+2023-12-08,119005,No,Los Ríos,Panguipulli,120
+2023-12-09,58906,No,Antofagasta,Calama,215
+2023-12-10,71840,No,Tarapacá,Alto Hospicio,15
+2023-12-11,140075,Sí,Aysén,Coyhaique,350
+2023-12-12,40656,No,Ñuble,Chillán,190
+2023-12-13,144229,No,Ñuble,Chillán,190
+2023-12-14,55344,Sí,La Araucanía,Villarrica,85
+2023-12-15,41414,Sí,Los Lagos,Puerto Montt,300
+2023-12-16,93547,No,Antofagasta,Calama,215
+2023-12-17,53784,No,Biobío,Los Ángeles,220
+2023-12-18,87533,No,Los Lagos,Puerto Montt,300
+2023-12-19,76338,No,Maule,Curicó,180
+2023-12-20,95700,Sí,La Araucanía,Villarrica,85
+2023-12-21,147676,No,La Araucanía,Villarrica,85
+2023-12-22,89471,No,O’Higgins,Rancagua,85
+2023-12-23,87726,No,Maule,Talca,250
+2023-12-24,49438,Sí,Los Lagos,Castro,175
+2023-12-25,97299,No,Aysén,Puerto Aysén,60
+2023-12-26,109764,No,Maule,Talca,250
+2023-12-27,57758,No,Biobío,Los Ángeles,220
+2023-12-28,77414,No,La Araucanía,Temuco,300
+2023-12-29,77138,Sí,Ñuble,San Carlos,45
+2023-12-30,87573,Sí,Biobío,Concepción,190
+2023-12-31,144593,No,Coquimbo,Coquimbo,10
+2024-01-01,92801,Sí,Tarapacá,Iquique,120
+2024-01-02,137896,Sí,Aysén,Coyhaique,350
+2024-01-03,68096,Sí,Tarapacá,Alto Hospicio,15
+2024-01-04,106114,No,Los Lagos,Castro,175
+2024-01-05,110765,No,Biobío,Los Ángeles,220
+2024-01-06,98740,No,Antofagasta,Antofagasta,200
+2024-01-07,83994,No,Magallanes,Punta Arenas,400
+2024-01-08,56341,Sí,Los Ríos,Valdivia,230
+2024-01-09,120331,Sí,Ñuble,San Carlos,45
+2024-01-10,82209,No,Coquimbo,Coquimbo,10
+2024-01-11,131690,No,Maule,Curicó,180
+2024-01-12,96276,No,Arica y Parinacota,Putre,150
+2024-01-13,70762,No,O’Higgins,Rancagua,85
+2024-01-14,70357,No,Valparaíso,Viña del Mar,10
+2024-01-15,145004,Sí,Coquimbo,La Serena,120
+2024-01-16,134032,No,Tarapacá,Alto Hospicio,15
+2024-01-17,102995,Sí,Aysén,Puerto Aysén,60
+2024-01-18,140772,No,Atacama,Vallenar,140
+2024-01-19,82090,No,Atacama,Copiapó,180
+2024-01-20,83181,No,Coquimbo,La Serena,120
+2024-01-21,100393,Sí,Arica y Parinacota,Arica,50
+2024-01-22,64034,Sí,Arica y Parinacota,Putre,150
+2024-01-23,71964,No,Valparaíso,Valparaíso,115
+2024-01-24,43347,Sí,Los Lagos,Castro,175
+2024-01-25,66467,No,La Araucanía,Villarrica,85
+2024-01-26,116160,Sí,Antofagasta,Antofagasta,200
+2024-01-27,53470,Sí,Antofagasta,Calama,215
+2024-01-28,105207,Sí,Los Lagos,Castro,175
+2024-01-29,84997,Sí,Atacama,Copiapó,180
+2024-01-30,69679,Sí,Los Ríos,Panguipulli,120
+2024-01-31,144342,Sí,Atacama,Vallenar,140
+2024-02-01,49976,No,Metropolitana,Puente Alto,25
+2024-02-02,40810,No,Los Ríos,Valdivia,230
+2024-02-03,133911,No,Atacama,Vallenar,140
+2024-02-04,95585,Sí,Valparaíso,Viña del Mar,10
+2024-02-05,137296,No,Metropolitana,Santiago,120
+2024-02-06,145162,Sí,O’Higgins,Rancagua,85
+2024-02-07,86165,No,O’Higgins,Rancagua,85
+2024-02-08,80303,No,Arica y Parinacota,Putre,150
+2024-02-09,132777,Sí,Los Ríos,Panguipulli,120
+2024-02-10,58412,Sí,Atacama,Vallenar,140
+2024-02-11,131092,Sí,Magallanes,Puerto Natales,250
+2024-02-12,107197,Sí,Antofagasta,Calama,215
+2024-02-13,99132,No,Arica y Parinacota,Putre,150
+2024-02-14,98277,No,Los Ríos,Panguipulli,120
+2024-02-15,91946,Sí,Los Ríos,Panguipulli,120
+2024-02-16,41378,Sí,Magallanes,Puerto Natales,250
+2024-02-17,40988,Sí,Biobío,Concepción,190
+2024-02-18,42609,No,Coquimbo,Coquimbo,10
+2024-02-19,147397,No,Tarapacá,Iquique,120
+2024-02-20,79760,No,O’Higgins,San Fernando,140
+2024-02-21,65607,No,Biobío,Concepción,190
+2024-02-22,118678,No,Antofagasta,Antofagasta,200
+2024-02-23,82760,No,Los Lagos,Puerto Montt,300
+2024-02-24,82698,Sí,O’Higgins,San Fernando,140
+2024-02-25,54950,Sí,Magallanes,Puerto Natales,250
+2024-02-26,100578,No,Ñuble,San Carlos,45
+2024-02-27,83051,No,Atacama,Vallenar,140
+2024-02-28,104032,Sí,Atacama,Vallenar,140
+2024-02-29,102976,No,Maule,Talca,250
+2024-03-01,122847,No,Los Ríos,Valdivia,230
+2024-03-02,125193,Sí,Arica y Parinacota,Putre,150
+2024-03-03,126088,No,O’Higgins,Rancagua,85
+2024-03-04,47230,No,Los Lagos,Castro,175
+2024-03-05,56305,No,Arica y Parinacota,Putre,150
+2024-03-06,40740,Sí,Arica y Parinacota,Putre,150
+2024-03-07,62146,Sí,Biobío,Concepción,190
+2024-03-08,122067,No,Antofagasta,Calama,215
+2024-03-09,61230,Sí,Valparaíso,Viña del Mar,10
+2024-03-10,120524,Sí,Los Ríos,Panguipulli,120
+2024-03-11,144806,No,Biobío,Concepción,190
+2024-03-12,67401,Sí,Tarapacá,Alto Hospicio,15
+2024-03-13,50550,Sí,Atacama,Vallenar,140
+2024-03-14,87316,No,Tarapacá,Alto Hospicio,15
+2024-03-15,67835,Sí,Metropolitana,Santiago,120
+2024-03-16,108144,No,Aysén,Puerto Aysén,60
+2024-03-17,118875,No,Los Lagos,Puerto Montt,300
+2024-03-18,90374,Sí,Coquimbo,La Serena,120
+2024-03-19,119913,No,Los Ríos,Panguipulli,120
+2024-03-20,50236,Sí,Metropolitana,Puente Alto,25
+2024-03-21,133757,Sí,Valparaíso,Valparaíso,115
+2024-03-22,66220,Sí,Aysén,Puerto Aysén,60
+2024-03-23,91448,Sí,Los Ríos,Panguipulli,120
+2024-03-24,139222,No,Antofagasta,Antofagasta,200
+2024-03-25,98740,Sí,Metropolitana,Santiago,120
+2024-03-26,143152,No,Biobío,Concepción,190
+2024-03-27,121639,No,O’Higgins,San Fernando,140
+2024-03-28,79625,No,Magallanes,Puerto Natales,250
+2024-03-29,50533,Sí,Los Lagos,Castro,175
+2024-03-30,140396,Sí,Los Lagos,Castro,175
+2024-03-31,144713,Sí,Los Lagos,Castro,175
+2024-04-01,140783,No,Biobío,Los Ángeles,220
+2024-04-02,120060,No,Arica y Parinacota,Putre,150
+2024-04-03,78879,No,Atacama,Vallenar,140
+2024-04-04,69864,No,Valparaíso,Viña del Mar,10
+2024-04-05,117674,No,Maule,Curicó,180
+2024-04-06,117831,Sí,Magallanes,Punta Arenas,400
+2024-04-07,74176,Sí,Ñuble,Chillán,190
+2024-04-08,88167,No,O’Higgins,Rancagua,85
+2024-04-09,110403,Sí,Biobío,Concepción,190
+2024-04-10,81606,Sí,Aysén,Puerto Aysén,60
+2024-04-11,91550,Sí,Tarapacá,Iquique,120
+2024-04-12,69054,Sí,Valparaíso,Viña del Mar,10
+2024-04-13,45764,Sí,Valparaíso,Viña del Mar,10
+2024-04-14,116967,Sí,Magallanes,Puerto Natales,250
+2024-04-15,87749,No,Coquimbo,Coquimbo,10
+2024-04-16,134544,No,Metropolitana,Santiago,120
+2024-04-17,93330,Sí,Valparaíso,Viña del Mar,10
+2024-04-18,77831,Sí,Metropolitana,Puente Alto,25
+2024-04-19,45425,No,Ñuble,Chillán,190
+2024-04-20,110470,No,Antofagasta,Antofagasta,200
+2024-04-21,116852,Sí,O’Higgins,Rancagua,85
+2024-04-22,78569,No,Ñuble,Chillán,190
+2024-04-23,127484,No,Antofagasta,Antofagasta,200
+2024-04-24,114063,No,O’Higgins,Rancagua,85
+2024-04-25,143636,Sí,Metropolitana,Santiago,120
+2024-04-26,125763,No,Ñuble,Chillán,190
+2024-04-27,69898,No,Atacama,Copiapó,180
+2024-04-28,125035,Sí,Magallanes,Punta Arenas,400
+2024-04-29,74848,Sí,Aysén,Puerto Aysén,60
+2024-04-30,115677,No,Aysén,Puerto Aysén,60
+2024-05-01,94414,No,Magallanes,Punta Arenas,400
+2024-05-02,126851,No,Metropolitana,Santiago,120
+2024-05-03,148691,Sí,Tarapacá,Iquique,120
+2024-05-04,142859,No,O’Higgins,San Fernando,140
+2024-05-05,70735,No,Aysén,Coyhaique,350
+2024-05-06,136047,No,Magallanes,Puerto Natales,250
+2024-05-07,120955,Sí,Atacama,Vallenar,140
+2024-05-08,51141,No,Valparaíso,Viña del Mar,10
+2024-05-09,103107,Sí,Antofagasta,Antofagasta,200
+2024-05-10,123921,No,Tarapacá,Alto Hospicio,15
+2024-05-11,49077,No,La Araucanía,Villarrica,85
+2024-05-12,122992,Sí,Atacama,Copiapó,180
+2024-05-13,53665,No,Biobío,Concepción,190
+2024-05-14,65235,No,Los Ríos,Panguipulli,120
+2024-05-15,107927,No,Valparaíso,Viña del Mar,10
+2024-05-16,50685,Sí,Atacama,Copiapó,180
+2024-05-17,133160,Sí,Los Ríos,Valdivia,230
+2024-05-18,56810,No,Metropolitana,Puente Alto,25
+2024-05-19,73785,Sí,Coquimbo,Coquimbo,10
+2024-05-20,81031,No,Antofagasta,Calama,215
+2024-05-21,81669,No,Tarapacá,Iquique,120
+2024-05-22,112208,Sí,Maule,Talca,250
+2024-05-23,111738,Sí,Maule,Talca,250
+2024-05-24,45484,Sí,Atacama,Copiapó,180
+2024-05-25,49573,Sí,Atacama,Vallenar,140
+2024-05-26,111148,No,Atacama,Copiapó,180
+2024-05-27,68462,Sí,La Araucanía,Villarrica,85
+2024-05-28,81420,No,Los Ríos,Panguipulli,120
+2024-05-29,76340,No,Maule,Curicó,180
+2024-05-30,141051,Sí,Atacama,Copiapó,180
+2024-05-31,107187,No,Maule,Curicó,180
+2024-06-01,107544,Sí,Coquimbo,Coquimbo,10
+2024-06-02,113565,Sí,Arica y Parinacota,Arica,50
+2024-06-03,63882,Sí,Biobío,Concepción,190
+2024-06-04,63524,No,Metropolitana,Santiago,120
+2024-06-05,45923,No,Ñuble,Chillán,190
+2024-06-06,125946,No,Valparaíso,Viña del Mar,10
+2024-06-07,133107,No,Aysén,Puerto Aysén,60
+2024-06-08,128743,No,Maule,Curicó,180
+2024-06-09,100290,Sí,Arica y Parinacota,Putre,150
+2024-06-10,139047,No,O’Higgins,San Fernando,140
+2024-06-11,95501,Sí,Metropolitana,Puente Alto,25
+2024-06-12,134895,No,Valparaíso,Viña del Mar,10
+2024-06-13,45463,Sí,Valparaíso,Valparaíso,115
+2024-06-14,104802,Sí,Tarapacá,Alto Hospicio,15
+2024-06-15,145105,No,Aysén,Puerto Aysén,60
+2024-06-16,94814,Sí,O’Higgins,San Fernando,140
+2024-06-17,67529,No,Metropolitana,Santiago,120
+2024-06-18,127909,Sí,Aysén,Coyhaique,350
+2024-06-19,82629,Sí,Metropolitana,Puente Alto,25
+2024-06-20,59281,No,Los Ríos,Panguipulli,120
+2024-06-21,75064,No,La Araucanía,Villarrica,85
+2024-06-22,61743,Sí,Maule,Talca,250
+2024-06-23,103763,No,Ñuble,San Carlos,45
+2024-06-24,148409,Sí,Magallanes,Puerto Natales,250
+2024-06-25,139210,No,Coquimbo,La Serena,120
+2024-06-26,57131,No,Maule,Curicó,180
+2024-06-27,123297,No,Coquimbo,La Serena,120
+2024-06-28,126832,Sí,Biobío,Los Ángeles,220
+2024-06-29,98171,No,Magallanes,Punta Arenas,400
+2024-06-30,114351,Sí,Valparaíso,Valparaíso,115
+2024-07-01,109238,No,Aysén,Puerto Aysén,60
+2024-07-02,67847,No,Biobío,Concepción,190
+2024-07-03,118287,Sí,Ñuble,San Carlos,45
+2024-07-04,113270,No,O’Higgins,San Fernando,140
+2024-07-05,59997,Sí,Antofagasta,Antofagasta,200
+2024-07-06,56641,Sí,Los Ríos,Valdivia,230
+2024-07-07,131073,Sí,Biobío,Los Ángeles,220
+2024-07-08,116251,No,Antofagasta,Calama,215
+2024-07-09,70032,No,Tarapacá,Iquique,120
+2024-07-10,47944,No,Los Ríos,Valdivia,230
+2024-07-11,112803,Sí,Ñuble,San Carlos,45
+2024-07-12,78340,Sí,Ñuble,San Carlos,45
+2024-07-13,47377,Sí,Valparaíso,Viña del Mar,10
+2024-07-14,114159,No,Los Lagos,Castro,175
+2024-07-15,103768,No,Metropolitana,Puente Alto,25
+2024-07-16,66438,No,Los Ríos,Panguipulli,120
+2024-07-17,55794,Sí,Aysén,Puerto Aysén,60
+2024-07-18,70227,No,Atacama,Vallenar,140
+2024-07-19,143563,Sí,Tarapacá,Alto Hospicio,15
+2024-07-20,148617,No,Los Lagos,Castro,175
+2024-07-21,85997,Sí,Maule,Curicó,180
+2024-07-22,138053,Sí,Los Ríos,Valdivia,230
+2024-07-23,82793,No,Ñuble,Chillán,190
+2024-07-24,45991,No,Los Ríos,Panguipulli,120
+2024-07-25,149022,No,Magallanes,Puerto Natales,250
+2024-07-26,68166,No,Arica y Parinacota,Putre,150
+2024-07-27,115825,No,Maule,Curicó,180
+2024-07-28,119547,No,Arica y Parinacota,Putre,150
+2024-07-29,132079,No,Aysén,Puerto Aysén,60
+2024-07-30,100380,No,O’Higgins,Rancagua,85
+2024-07-31,143178,Sí,Los Ríos,Valdivia,230
+2024-08-01,98749,Sí,Magallanes,Puerto Natales,250
+2024-08-02,79996,No,Magallanes,Punta Arenas,400
+2024-08-03,138938,Sí,Atacama,Vallenar,140
+2024-08-04,41266,Sí,La Araucanía,Temuco,300
+2024-08-05,111157,No,Antofagasta,Calama,215
+2024-08-06,73906,Sí,Ñuble,San Carlos,45
+2024-08-07,66784,Sí,Arica y Parinacota,Putre,150
+2024-08-08,69154,Sí,Antofagasta,Antofagasta,200
+2024-08-09,127865,Sí,Tarapacá,Iquique,120
+2024-08-10,107605,Sí,Los Ríos,Panguipulli,120
+2024-08-11,45486,Sí,Aysén,Coyhaique,350
+2024-08-12,69793,Sí,Ñuble,Chillán,190
+2024-08-13,137488,No,Los Ríos,Valdivia,230
+2024-08-14,64493,Sí,Biobío,Concepción,190
+2024-08-15,115596,No,Los Ríos,Panguipulli,120
+2024-08-16,69481,No,Ñuble,San Carlos,45
+2024-08-17,72933,Sí,O’Higgins,San Fernando,140
+2024-08-18,104428,Sí,Arica y Parinacota,Arica,50
+2024-08-19,90354,Sí,Maule,Curicó,180
+2024-08-20,134887,Sí,Los Lagos,Castro,175
+2024-08-21,115001,No,Aysén,Puerto Aysén,60
+2024-08-22,104622,Sí,Coquimbo,La Serena,120
+2024-08-23,96806,Sí,La Araucanía,Villarrica,85
+2024-08-24,73834,Sí,Antofagasta,Antofagasta,200
+2024-08-25,149532,Sí,Aysén,Coyhaique,350
+2024-08-26,40796,No,Coquimbo,Coquimbo,10
+2024-08-27,105315,No,Biobío,Concepción,190
+2024-08-28,65832,Sí,Tarapacá,Alto Hospicio,15
+2024-08-29,68899,No,Arica y Parinacota,Putre,150
+2024-08-30,85052,Sí,Maule,Curicó,180
+2024-08-31,74424,Sí,Aysén,Puerto Aysén,60
+2024-09-01,138413,Sí,Atacama,Copiapó,180
+2024-09-02,143505,No,Aysén,Coyhaique,350
+2024-09-03,146643,Sí,Los Ríos,Valdivia,230
+2024-09-04,71876,No,Antofagasta,Calama,215
+2024-09-05,117630,Sí,La Araucanía,Temuco,300
+2024-09-06,95016,Sí,Los Ríos,Panguipulli,120
+2024-09-07,45673,Sí,Magallanes,Punta Arenas,400
+2024-09-08,80729,No,Metropolitana,Santiago,120
+2024-09-09,141511,Sí,Los Ríos,Valdivia,230
+2024-09-10,90578,No,Aysén,Coyhaique,350
+2024-09-11,103280,Sí,Tarapacá,Iquique,120
+2024-09-12,48459,Sí,Aysén,Coyhaique,350
+2024-09-13,88614,Sí,Atacama,Vallenar,140
+2024-09-14,45753,No,Los Ríos,Panguipulli,120
+2024-09-15,94549,Sí,Magallanes,Punta Arenas,400
+2024-09-16,99724,No,Biobío,Los Ángeles,220
+2024-09-17,84048,No,La Araucanía,Villarrica,85
+2024-09-18,56425,No,Ñuble,San Carlos,45
+2024-09-19,98159,Sí,La Araucanía,Temuco,300
+2024-09-20,148876,Sí,Tarapacá,Alto Hospicio,15
+2024-09-21,72843,Sí,Los Lagos,Puerto Montt,300
+2024-09-22,66447,Sí,La Araucanía,Temuco,300
+2024-09-23,45085,Sí,Biobío,Los Ángeles,220
+2024-09-24,71083,No,Antofagasta,Calama,215
+2024-09-25,140876,Sí,Valparaíso,Valparaíso,115
+2024-09-26,92483,No,Metropolitana,Puente Alto,25
+2024-09-27,137750,Sí,Tarapacá,Alto Hospicio,15
+2024-09-28,80821,No,Ñuble,San Carlos,45
+2024-09-29,104320,Sí,Maule,Talca,250
+2024-09-30,99122,Sí,La Araucanía,Temuco,300
+2024-10-01,134402,Sí,Maule,Curicó,180
+2024-10-02,100918,Sí,Ñuble,San Carlos,45
+2024-10-03,103518,No,Ñuble,Chillán,190
+2024-10-04,126526,No,Los Ríos,Valdivia,230
+2024-10-05,53818,Sí,Valparaíso,Viña del Mar,10
+2024-10-06,116965,Sí,Valparaíso,Valparaíso,115
+2024-10-07,94664,No,Los Lagos,Castro,175
+2024-10-08,146235,No,Ñuble,Chillán,190
+2024-10-09,134000,No,Atacama,Copiapó,180
+2024-10-10,49766,Sí,O’Higgins,San Fernando,140
+2024-10-11,54994,No,Maule,Curicó,180
+2024-10-12,50431,No,Maule,Curicó,180
+2024-10-13,55921,Sí,Maule,Curicó,180
+2024-10-14,58042,Sí,Tarapacá,Iquique,120
+2024-10-15,50083,No,Atacama,Vallenar,140
+2024-10-16,138522,Sí,Los Ríos,Panguipulli,120
+2024-10-17,91172,Sí,Aysén,Coyhaique,350
+2024-10-18,111565,No,Los Lagos,Puerto Montt,300
+2024-10-19,138309,No,Arica y Parinacota,Arica,50
+2024-10-20,137470,No,Metropolitana,Puente Alto,25
+2024-10-21,55624,No,Los Ríos,Valdivia,230
+2024-10-22,80143,Sí,Antofagasta,Calama,215
+2024-10-23,142415,Sí,Aysén,Puerto Aysén,60
+2024-10-24,101894,No,Los Lagos,Castro,175
+2024-10-25,118983,No,Magallanes,Puerto Natales,250
+2024-10-26,70664,No,Magallanes,Punta Arenas,400
+2024-10-27,45236,Sí,Atacama,Vallenar,140
+2024-10-28,73506,Sí,Metropolitana,Puente Alto,25
+2024-10-29,56554,No,Arica y Parinacota,Putre,150
+2024-10-30,121968,Sí,La Araucanía,Temuco,300
+2024-10-31,96367,Sí,Metropolitana,Puente Alto,25
+2024-11-01,110987,Sí,Los Ríos,Panguipulli,120
+2024-11-02,137010,Sí,Magallanes,Puerto Natales,250
+2024-11-03,76144,Sí,Ñuble,San Carlos,45
+2024-11-04,101276,Sí,Tarapacá,Alto Hospicio,15
+2024-11-05,54683,Sí,Aysén,Coyhaique,350
+2024-11-06,135983,Sí,Arica y Parinacota,Putre,150
+2024-11-07,115396,No,Los Lagos,Castro,175
+2024-11-08,141254,No,Ñuble,Chillán,190
+2024-11-09,53009,No,Los Lagos,Puerto Montt,300
+2024-11-10,138893,No,Coquimbo,La Serena,120
+2024-11-11,122118,Sí,Antofagasta,Antofagasta,200
+2024-11-12,62778,No,Biobío,Los Ángeles,220
+2024-11-13,90882,Sí,Atacama,Vallenar,140
+2024-11-14,149339,Sí,Antofagasta,Calama,215
+2024-11-15,124835,Sí,Magallanes,Puerto Natales,250
+2024-11-16,61850,Sí,Los Lagos,Puerto Montt,300
+2024-11-17,122151,No,Maule,Talca,250
+2024-11-18,86486,Sí,Tarapacá,Iquique,120
+2024-11-19,50932,No,Los Lagos,Castro,175
+2024-11-20,92157,Sí,Aysén,Puerto Aysén,60
+2024-11-21,66749,Sí,Los Lagos,Castro,175
+2024-11-22,73711,Sí,Metropolitana,Puente Alto,25
+2024-11-23,138300,No,Arica y Parinacota,Arica,50
+2024-11-24,40112,Sí,Los Ríos,Panguipulli,120
+2024-11-25,87706,No,Atacama,Vallenar,140
+2024-11-26,132164,No,La Araucanía,Villarrica,85
+2024-11-27,124803,No,Atacama,Vallenar,140
+2024-11-28,41650,No,Tarapacá,Iquique,120
+2024-11-29,104005,Sí,Maule,Talca,250
+2024-11-30,103383,No,Atacama,Copiapó,180
+2024-12-01,95871,Sí,Antofagasta,Calama,215
+2024-12-02,124327,No,Coquimbo,La Serena,120
+2024-12-03,49287,No,Ñuble,San Carlos,45
+2024-12-04,123033,Sí,Magallanes,Punta Arenas,400
+2024-12-05,100724,No,Arica y Parinacota,Arica,50
+2024-12-06,71517,Sí,Magallanes,Puerto Natales,250
+2024-12-07,79003,No,Los Ríos,Panguipulli,120
+2024-12-08,133403,No,Maule,Curicó,180
+2024-12-09,80840,Sí,Tarapacá,Iquique,120
+2024-12-10,147778,Sí,Biobío,Concepción,190
+2024-12-11,107490,Sí,Aysén,Puerto Aysén,60
+2024-12-12,73054,No,Tarapacá,Alto Hospicio,15
+2024-12-13,149560,No,Maule,Talca,250
+2024-12-14,131682,Sí,Biobío,Los Ángeles,220
+2024-12-15,101887,No,Metropolitana,Puente Alto,25
+2024-12-16,60447,Sí,O’Higgins,Rancagua,85
+2024-12-17,76654,No,La Araucanía,Temuco,300
+2024-12-18,69190,No,Los Lagos,Puerto Montt,300
+2024-12-19,67806,No,Los Lagos,Puerto Montt,300
+2024-12-20,66188,Sí,Coquimbo,La Serena,120
+2024-12-21,92098,No,Ñuble,San Carlos,45
+2024-12-22,143053,No,Los Ríos,Valdivia,230
+2024-12-23,116748,Sí,Atacama,Vallenar,140
+2024-12-24,106236,Sí,La Araucanía,Villarrica,85
+2024-12-25,47535,No,Magallanes,Punta Arenas,400
+2024-12-26,130101,Sí,Los Ríos,Valdivia,230
+2024-12-27,56625,Sí,Valparaíso,Viña del Mar,10
+2024-12-28,116323,No,La Araucanía,Villarrica,85
+2024-12-29,58915,Sí,Los Ríos,Valdivia,230
+2024-12-30,115136,No,Los Lagos,Castro,175
+2024-12-31,72925,No,Aysén,Puerto Aysén,60
